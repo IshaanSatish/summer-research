@@ -1,0 +1,9 @@
+# time interaction_type id_merger(mass_merger) id1(m1):id2(m2):id3(m3):... (r) type_merger type1 ...
+t=0.0279918 single-single idm=267680(mm=3.70033) id1=57680(m1=3.7385):id2=65615(m2=0.710826) (r=0.946155) typem=4 type1=4 type2=0 b[RSUN]=746.51 vinf[km/s]=7.83059
+t=0.0457231 single-single idm=247399(mm=3.25724) id1=37399(m1=2.77304):id2=128473(m2=0.484203) (r=0.487406) typem=1 type1=1 type2=0 b[RSUN]=119.475 vinf[km/s]=12.4187
+t=0.0566951 binary-single idm=255230(mm=1.034) id1=70688(m1=0.891142):id2=45230(m2=0.142863) (r=0.856221) typem=1 type1=1 type2=0 
+t=0.0717837 binary-binary idm=289272(mm=14.9131) id1=79272(m1=0.970241):id2=115717(m2=14.9131) (r=0.013619) typem=14 type1=11 type2=14 
+t=0.0968656 binary-single idm=235441(mm=1.60156) id1=25441(m1=0.143641):id2=30500(m2=1.45792) (r=0.45663) typem=1 type1=0 type2=1 
+t=0.103566 binary-single idm=236487(mm=0.777709) id1=26487(m1=0.127048):id2=205124(m2=0.650661) (r=0.992762) typem=1 type1=0 type2=0 
+t=0.26291 binary-single idm=286719(mm=1.63953) id1=76719(m1=0.0992828):id2=134055(m2=1.54025) (r=0.502086) typem=1 type1=0 type2=1 
+t=0.305472 binary-single idm=274938(mm=2.13876) id1=64938(m1=1.44385):id2=68911(m2=0.694905) (r=1.86046) typem=1 type1=1 type2=0 

@@ -1,0 +1,785 @@
+# time interaction_type id_merger(mass_merger) id1(m1):id2(m2):id3(m3):... (r) type_merger type1 ...
+t=0.00184737 binary-single idm=244504(mm=122.095) id1=49756(m1=0.205523):id2=34504(m2=121.89) (r=0.196746) typem=1 type1=0 type2=1 
+t=0.00247609 binary-binary idm=220657(mm=205.551) id1=10657(m1=104.341):id2=48757(m2=101.21) (r=0.0461683) typem=1 type1=1 type2=1 
+t=0.00299412 binary-single idm=232995(mm=112.442) id1=22995(m1=0.0928942):id2=100504(m2=112.349) (r=0.147785) typem=4 type1=0 type2=4 
+t=0.00300779 binary-single idm=227955(mm=109.181) id1=17955(m1=0.28425):id2=175727(m2=108.897) (r=0.199601) typem=4 type1=0 type2=4 
+t=0.003058 single-single idm=241018(mm=101.503) id1=119279(m1=100.243):id2=31018(m2=1.26264) (r=0.255534) typem=4 type1=4 type2=1 b[RSUN]=24431 vinf[km/s]=10.1231
+t=0.00307119 binary-single idm=211180(mm=58.4837) id1=1180(m1=0.263164):id2=147276(m2=58.2206) (r=0.238094) typem=1 type1=0 type2=1 
+t=0.00315128 binary-single idm=215533(mm=65.376) id1=5533(m1=0.7561):id2=34242(m2=86.12) (r=0.119237) typem=4 type1=1 type2=4 
+t=0.00315128 binary-single idm=211171(mm=85.6506) id1=1171(m1=0.21335):id2=64926(m2=85.4372) (r=0.166134) typem=4 type1=0 type2=4 
+t=0.00318859 single-single idm=246076(mm=79.8546) id1=36076(m1=0.407716):id2=149723(m2=79.4488) (r=0.647879) typem=4 type1=0 type2=4 b[RSUN]=12753.4 vinf[km/s]=13.0045
+t=0.00324733 binary-single idm=215534(mm=50.9593) id1=23079(m1=0.54287):id2=215533(m2=50.4174) (r=0.174695) typem=4 type1=0 type2=4 
+t=0.00325108 binary-single idm=212758(mm=49.5274) id1=2757(m1=0.627201):id2=215534(m2=48.9009) (r=0.181161) typem=4 type1=0 type2=4 
+t=0.00327052 binary-single idm=319970(mm=73.2064) id1=109970(m1=1.20846):id2=150155(m2=71.998) (r=0.298562) typem=4 type1=1 type2=4 
+t=0.00334887 binary-single idm=213816(mm=68.2577) id1=3816(m1=0.100027):id2=122627(m2=68.1576) (r=0.0735734) typem=4 type1=0 type2=4 
+t=0.00342172 single-single idm=241171(mm=38.2608) id1=31171(m1=0.0913236):id2=78203(m2=38.1705) (r=0.311352) typem=4 type1=0 type2=4 b[RSUN]=5289.3 vinf[km/s]=24.5539
+t=0.00344493 binary-binary idm=234806(mm=36.9639) id1=24806(m1=0.164749):id2=58537(m2=36.7992) (r=0.34569) typem=1 type1=0 type2=1 
+t=0.003446 binary-single idm=234087(mm=45.079) id1=28370(m1=0.145763):id2=24087(m2=44.9333) (r=0.207643) typem=4 type1=0 type2=4 
+t=0.00344794 single-single idm=280059(mm=45.233) id1=70059(m1=0.201114):id2=176205(m2=45.0338) (r=0.449346) typem=4 type1=0 type2=4 b[RSUN]=1771.63 vinf[km/s]=34.2343
+t=0.00378256 binary-single idm=222555(mm=33.1044) id1=12555(m1=0.810508):id2=25684(m2=32.2939) (r=0.264043) typem=4 type1=1 type2=4 
+t=0.00388118 single-single idm=276330(mm=45.296) id1=128897(m1=45.5673):id2=66330(m2=0.141473) (r=0.236759) typem=4 type1=4 type2=0 b[RSUN]=1996.55 vinf[km/s]=26.4058
+t=0.00502098 single-single idm=246799(mm=37.4799) id1=36799(m1=37.5809):id2=116636(m2=0.245577) (r=0.283848) typem=4 type1=4 type2=0 b[RSUN]=1260.8 vinf[km/s]=22.262
+t=0.00515981 binary-single idm=216798(mm=124.875) id1=6797(m1=0.124776):id2=220657(m2=124.75) (r=0.108105) typem=4 type1=0 type2=4 
+t=0.00542512 binary-single idm=212816(mm=35.51) id1=2816(m1=0.303907):id2=8274(m2=35.2061) (r=0.0409037) typem=4 type1=0 type2=4 
+t=0.00578955 single-single idm=232863(mm=0.407264) id1=22863(m1=0.196981):id2=37784(m2=0.210284) (r=0.312558) typem=0 type1=0 type2=0 b[RSUN]=3.71637 vinf[km/s]=12.3616
+t=0.00984786 single-single idm=234100(mm=17.6736) id1=24100(m1=19.2513):id2=73340(m2=0.213288) (r=0.290435) typem=4 type1=4 type2=0 b[RSUN]=1330.29 vinf[km/s]=14.5982
+t=0.012941 single-single idm=212654(mm=6.15204) id1=68337(m1=5.73364):id2=2654(m2=0.418395) (r=0.152361) typem=1 type1=1 type2=0 b[RSUN]=75.2699 vinf[km/s]=26.6862
+t=0.0141445 single-single idm=248386(mm=1.94672) id1=38386(m1=1.54731):id2=98393(m2=0.399401) (r=0.757002) typem=1 type1=1 type2=0 b[RSUN]=39.745 vinf[km/s]=9.91508
+t=0.0153334 single-single idm=275094(mm=12.9922) id1=139827(m1=12.744):id2=65094(m2=0.248215) (r=0.944072) typem=1 type1=1 type2=0 b[RSUN]=236.897 vinf[km/s]=21.951
+t=0.0167024 binary-binary idm=357266(mm=12.7918) id1=184549(m1=0.515766):id2=147266(m2=12.3926) (r=0.0448337) typem=4 type1=0 type2=4 
+t=0.0169734 binary-binary idm=233924(mm=53.5124) id1=23924(m1=5.38871):id2=48795(m2=53.5124) (r=0.022116) typem=14 type1=1 type2=14 
+t=0.0173943 binary-binary idm=229365(mm=36.855) id1=19365(m1=0.114463):id2=167048(m2=36.855) (r=0.00324675) typem=14 type1=0 type2=14 
+t=0.0195503 binary-single idm=319691(mm=18.5488) id1=109691(m1=11.0016):id2=203063(m2=8.40836) (r=0.0437831) typem=4 type1=4 type2=1 
+t=0.0222042 binary-binary idm=261333(mm=40.3771) id1=51333(m1=40.3771):id2=161690(m2=0.194984) (r=0.00801764) typem=14 type1=14 type2=0 
+t=0.0225483 binary-binary idm=233925(mm=53.5124) id1=233924(m1=53.5124):id2=129095(m2=0.389096) (r=0.00177837) typem=14 type1=14 type2=0 
+t=0.0226558 binary-binary idm=211230(mm=48.8684) id1=1230(m1=48.8684):id2=66206(m2=0.0936432) (r=0.00719003) typem=14 type1=14 type2=0 
+t=0.0262374 binary-binary idm=269411(mm=76.9855) id1=59411(m1=31.629):id2=115717(m2=48.9456) (r=0.0141597) typem=14 type1=14 type2=14 
+t=0.0269048 single-single idm=220941(mm=10.0666) id1=10941(m1=1.25708):id2=55975(m2=9.34978) (r=0.343035) typem=4 type1=1 type2=4 b[RSUN]=447.809 vinf[km/s]=24.3463
+t=0.0300864 single-single idm=229805(mm=8.79602) id1=20686(m1=8.71974):id2=19805(m2=0.282882) (r=0.253174) typem=4 type1=4 type2=0 b[RSUN]=872.66 vinf[km/s]=2.9133
+t=0.0303097 binary-binary idm=244505(mm=40.5) id1=244504(m1=40.5):id2=44405(m2=0.114211) (r=0.00697813) typem=14 type1=14 type2=0 
+t=0.0304059 binary-binary idm=233791(mm=50.5406) id1=40380(m1=50.5406):id2=23791(m2=0.32739) (r=0.00272208) typem=14 type1=14 type2=0 
+t=0.0304119 binary-binary idm=226727(mm=40.3771) id1=16726(m1=0.126659):id2=261333(m2=40.3771) (r=0.00479259) typem=14 type1=0 type2=14 
+t=0.0306869 single-single idm=253406(mm=7.00415) id1=43406(m1=6.76552):id2=111574(m2=0.238627) (r=0.141721) typem=1 type1=1 type2=0 b[RSUN]=102.43 vinf[km/s]=25.7101
+t=0.0339112 binary-single idm=210219(mm=40.1277) id1=218(m1=1.75012):id2=212758(m2=40.1277) (r=0.0334018) typem=14 type1=1 type2=14 
+t=0.0368399 binary-single idm=246077(mm=40.5) id1=130427(m1=0.163041):id2=246076(m2=40.5) (r=0.0136014) typem=14 type1=0 type2=14 
+t=0.0375608 binary-binary idm=280636(mm=36.2894) id1=319970(m1=36.2894):id2=70635(m2=0.173976) (r=0.0229206) typem=14 type1=14 type2=0 
+t=0.0415214 single-single idm=229023(mm=0.692064) id1=19023(m1=0.541952):id2=96917(m2=0.150111) (r=0.510667) typem=0 type1=0 type2=0 b[RSUN]=12.4894 vinf[km/s]=15.1994
+t=0.0422598 binary-binary idm=234088(mm=34.5297) id1=55369(m1=0.296716):id2=234087(m2=34.5297) (r=0.0248875) typem=14 type1=0 type2=14 
+t=0.0437438 binary-single idm=252990(mm=1.58101) id1=100022(m1=0.532914):id2=42990(m2=1.0481) (r=1.37529) typem=1 type1=0 type2=1 
+t=0.0466182 binary-single idm=254856(mm=4.07846) id1=44856(m1=2.12518):id2=208823(m2=1.95327) (r=0.212563) typem=1 type1=1 type2=1 
+t=0.0623988 single-single idm=219530(mm=6.42337) id1=72678(m1=0.853035):id2=9530(m2=5.81176) (r=0.535838) typem=4 type1=1 type2=4 b[RSUN]=58.9355 vinf[km/s]=8.70166
+t=0.0641217 binary-binary idm=241172(mm=32.8938) id1=90754(m1=0.241464):id2=241171(m2=32.8938) (r=0.00267808) typem=14 type1=0 type2=14 
+t=0.0699095 binary-binary idm=248292(mm=29.9211) id1=38292(m1=0.10403):id2=90793(m2=29.9211) (r=0.0435137) typem=14 type1=0 type2=14 
+t=0.0722131 single-single idm=245216(mm=4.74146) id1=132609(m1=4.24351):id2=35216(m2=0.497953) (r=0.624203) typem=1 type1=1 type2=0 b[RSUN]=141.828 vinf[km/s]=13.819
+t=0.0744285 single-single idm=257618(mm=5.92754) id1=171471(m1=0.601564):id2=47618(m2=5.32646) (r=0.742604) typem=6 type1=0 type2=6 b[RSUN]=1267.24 vinf[km/s]=17.1454
+t=0.0747219 binary-single idm=221286(mm=0.624777) id1=11286(m1=0.371896):id2=51741(m2=0.252882) (r=0.659367) typem=0 type1=0 type2=0 
+t=0.0791665 binary-binary idm=234028(mm=15.6253) id1=85753(m1=15.6253):id2=24028(m2=0.256491) (r=0.0144129) typem=14 type1=14 type2=0 
+t=0.080572 binary-single idm=248293(mm=29.9211) id1=156096(m1=0.276639):id2=248292(m2=29.9211) (r=0.0228487) typem=14 type1=0 type2=14 
+t=0.0820028 binary-binary idm=241173(mm=32.8938) id1=54865(m1=0.181107):id2=241172(m2=32.8938) (r=0.0075704) typem=14 type1=0 type2=14 
+t=0.083919 single-single idm=212160(mm=3.17028) id1=114709(m1=0.298951):id2=2160(m2=2.87132) (r=0.480286) typem=1 type1=0 type2=1 b[RSUN]=94.4363 vinf[km/s]=10.6003
+t=0.0985048 binary-binary idm=284169(mm=18.918) id1=74169(m1=18.918):id2=122651(m2=0.100362) (r=0.025291) typem=14 type1=14 type2=0 
+t=0.105699 binary-binary idm=240458(mm=23.2595) id1=30458(m1=23.2595):id2=46189(m2=0.196076) (r=0.0228592) typem=14 type1=14 type2=0 
+t=0.106068 binary-binary idm=241174(mm=32.8938) id1=206138(m1=0.330231):id2=241173(m2=32.8938) (r=0.00246999) typem=14 type1=0 type2=14 
+t=0.108483 binary-single idm=310639(mm=1.39039) id1=100639(m1=0.526282):id2=151725(m2=0.864104) (r=0.681413) typem=1 type1=0 type2=1 
+t=0.109341 binary-single idm=216627(mm=5.92901) id1=6627(m1=2.50671):id2=206236(m2=3.42229) (r=0.284014) typem=1 type1=1 type2=1 
+t=0.109844 single-single idm=363520(mm=1.30197) id1=187835(m1=0.168146):id2=153520(m2=1.13383) (r=1.44084) typem=1 type1=0 type2=1 b[RSUN]=59.3492 vinf[km/s]=9.95232
+t=0.110998 binary-binary idm=253247(mm=29.3583) id1=43247(m1=29.3583):id2=92078(m2=0.392586) (r=0.028894) typem=14 type1=14 type2=0 
+t=0.111156 single-single idm=306298(mm=3.42286) id1=150991(m1=3.30237):id2=96298(m2=0.120483) (r=0.177169) typem=1 type1=1 type2=0 b[RSUN]=7.09551 vinf[km/s]=34.3465
+t=0.118201 binary-single idm=297366(mm=29.6806) id1=87366(m1=29.6806):id2=185342(m2=0.342645) (r=0.0189906) typem=14 type1=14 type2=0 
+t=0.146146 binary-single idm=330684(mm=0.966006) id1=120684(m1=0.325272):id2=202232(m2=0.640734) (r=0.89022) typem=1 type1=0 type2=0 
+t=0.15244 binary-binary idm=262253(mm=44.8834) id1=52253(m1=21.3887):id2=196871(m2=25.7366) (r=0.00505815) typem=14 type1=14 type2=14 
+t=0.168293 binary-single idm=217149(mm=16.0874) id1=7149(m1=1.27752):id2=85683(m2=16.0874) (r=0.0193556) typem=14 type1=1 type2=14 
+t=0.169223 binary-single idm=230182(mm=0.720998) id1=20182(m1=0.376182):id2=205031(m2=0.344816) (r=0.134437) typem=0 type1=0 type2=0 
+t=0.171945 single-single idm=319749(mm=0.584712) id1=109749(m1=0.090009):id2=196739(m2=0.494703) (r=2.43314) typem=0 type1=0 type2=0 b[RSUN]=16.9268 vinf[km/s]=10.586
+t=0.182156 binary-single idm=305029(mm=0.397103) id1=123072(m1=0.238751):id2=95029(m2=0.158352) (r=2.22986) typem=0 type1=0 type2=0 
+t=0.185071 binary-binary idm=220712(mm=18.1517) id1=10712(m1=0.337503):id2=151331(m2=18.1517) (r=0.0149813) typem=14 type1=0 type2=14 
+t=0.192233 single-single idm=216994(mm=13.808) id1=6994(m1=3.44611):id2=203034(m2=13.808) (r=0.0561663) typem=14 type1=4 type2=14 b[RSUN]=1107.34 vinf[km/s]=15.6135
+t=0.193839 binary-binary idm=389983(mm=0.189003) id1=179983(m1=0.105223):id2=203918(m2=0.0837792) (r=0.0353841) typem=0 type1=0 type2=0 
+t=0.218573 single-single idm=275136(mm=3.43584) id1=65136(m1=0.461184):id2=97216(m2=2.97465) (r=1.21435) typem=1 type1=0 type2=1 b[RSUN]=459.69 vinf[km/s]=3.99546
+t=0.222865 binary-binary idm=285494(mm=19.0337) id1=200912(m1=1.02406):id2=75494(m2=19.0337) (r=0.0164067) typem=14 type1=1 type2=14 
+t=0.225351 binary-single idm=350660(mm=2.8296) id1=140660(m1=1.60879):id2=209170(m2=1.22081) (r=0.197179) typem=1 type1=1 type2=1 
+t=0.235544 single-single idm=290235(mm=21.4013) id1=165646(m1=21.4013):id2=80235(m2=0.430588) (r=0.128519) typem=14 type1=14 type2=0 b[RSUN]=103.689 vinf[km/s]=9.143
+t=0.24745 binary-binary idm=399617(mm=0.228499) id1=189617(m1=0.120289):id2=200023(m2=0.10821) (r=0.0440188) typem=0 type1=0 type2=0 
+t=0.2589 binary-single idm=222937(mm=2.90589) id1=12937(m1=1.47109):id2=200612(m2=1.43481) (r=0.440367) typem=1 type1=1 type2=1 
+t=0.282974 single-single idm=370592(mm=1.10474) id1=195942(m1=0.618523):id2=160592(m2=0.486218) (r=1.21753) typem=1 type1=0 type2=0 b[RSUN]=40.3977 vinf[km/s]=6.23497
+t=0.303641 binary-binary idm=324182(mm=2.06359) id1=169939(m1=0.477687):id2=114181(m2=1.09408):id3=202692(m3=0.491823) (r=1.85599) typem=1 type1=0 type2=1 type3=0 
+t=0.316598 single-single idm=286081(mm=2.79942) id1=77972(m1=2.51429):id2=76081(m2=0.285134) (r=0.202172) typem=1 type1=1 type2=0 b[RSUN]=42.0311 vinf[km/s]=19.4637
+t=0.318689 binary-single idm=224091(mm=15.6599) id1=14091(m1=2.42122):id2=83883(m2=15.6599) (r=0.148641) typem=14 type1=1 type2=14 
+t=0.324669 binary-binary idm=273560(mm=0.187422) id1=63560(m1=0.0992408):id2=204596(m2=0.088181) (r=1.29656) typem=0 type1=0 type2=0 
+t=0.419218 binary-single idm=237145(mm=1.4226) id1=154193(m1=0.433218):id2=27145(m2=0.989382) (r=0.0591846) typem=1 type1=0 type2=1 
+t=0.441487 binary-binary idm=226803(mm=22.6829) id1=16803(m1=0.776331):id2=95702(m2=22.6829) (r=0.00674843) typem=14 type1=1 type2=14 
+t=0.458163 single-single idm=287366(mm=1.09794) id1=102958(m1=0.298611):id2=77366(m2=0.79933) (r=0.514244) typem=1 type1=0 type2=1 b[RSUN]=80.3251 vinf[km/s]=6.70541
+t=0.466601 binary-binary idm=249199(mm=3.42478) id1=39199(m1=1.87325):id2=207345(m2=1.55153) (r=0.0402771) typem=1 type1=1 type2=1 
+t=0.502329 binary-single idm=220005(mm=1.11354) id1=10005(m1=0.331145):id2=201562(m2=0.782392) (r=0.809095) typem=1 type1=0 type2=1 
+t=0.580209 binary-single idm=292734(mm=15.124) id1=82734(m1=0.111575):id2=197910(m2=15.124) (r=0.114629) typem=14 type1=0 type2=14 
+t=0.627156 binary-single idm=244807(mm=2.07967) id1=40241(m1=0.935738):id2=34807(m2=1.14393) (r=0.422319) typem=1 type1=1 type2=1 
+t=0.643307 binary-single idm=236835(mm=1.46027) id1=26835(m1=0.170745):id2=80795(m2=1.28953) (r=0.197152) typem=1 type1=0 type2=1 
+t=0.647675 binary-single idm=284464(mm=2.64379) id1=188994(m1=1.31243):id2=74464(m2=1.33136) (r=1.39512) typem=6 type1=12 type2=1 
+t=0.668215 binary-single idm=351558(mm=1.25777) id1=141558(m1=0.0936288):id2=209372(m2=1.16414) (r=0.929755) typem=1 type1=0 type2=1 
+t=0.685988 binary-single idm=267984(mm=2.06795) id1=57984(m1=0.992829):id2=150964(m2=1.07512) (r=0.189825) typem=6 type1=11 type2=1 
+t=0.696728 single-single idm=251939(mm=3.61631) id1=147822(m1=2.04352):id2=41939(m2=1.81463) (r=1.2361) typem=4 type1=4 type2=1 b[RSUN]=492.769 vinf[km/s]=5.87179
+t=0.716367 single-single idm=261503(mm=2.08343) id1=51503(m1=1.9857):id2=59382(m2=0.142805) (r=1.56797) typem=4 type1=4 type2=0 b[RSUN]=276.278 vinf[km/s]=7.6323
+t=0.774568 binary-single idm=283863(mm=0.329837) id1=124792(m1=0.223975):id2=73863(m2=0.105861) (r=1.32807) typem=0 type1=0 type2=0 
+t=0.790215 single-single idm=216355(mm=2.0237) id1=6355(m1=0.15076):id2=23705(m2=1.96194) (r=1.09941) typem=4 type1=0 type2=4 b[RSUN]=184.927 vinf[km/s]=13.7354
+t=0.799709 binary-binary idm=0(mm=3.17372) id1=11831(m1=1.63297):id2=207957(m2=1.54075) (r=0.186777) typem=1 type1=1 type2=1 
+t=0.849604 single-single idm=267021(mm=1.23689) id1=101775(m1=0.147343):id2=57021(m2=1.08955) (r=0.494913) typem=1 type1=0 type2=1 b[RSUN]=141.681 vinf[km/s]=3.565
+t=0.894031 binary-binary idm=214347(mm=14.9142) id1=4347(m1=14.9142):id2=208405(m2=1.53816) (r=0.0515852) typem=14 type1=14 type2=1 
+t=0.905481 single-single idm=305903(mm=2.75689) id1=177419(m1=0.885887):id2=95903(m2=1.87143) (r=0.461665) typem=4 type1=11 type2=4 b[RSUN]=661.373 vinf[km/s]=4.85671
+t=0.988767 binary-single idm=244344(mm=2.71563) id1=34344(m1=1.64337):id2=207833(m2=1.07226) (r=0.426687) typem=1 type1=1 type2=1 
+t=1.07998 binary-single idm=350288(mm=2.00836) id1=140288(m1=1.67163):id2=209406(m2=0.336794) (r=0.307049) typem=3 type1=3 type2=0 
+t=1.14617 single-single idm=286073(mm=1.75458) id1=76073(m1=1.21732):id2=110704(m2=0.537256) (r=0.62105) typem=1 type1=1 type2=0 b[RSUN]=150.436 vinf[km/s]=3.27911
+t=1.19175 binary-single idm=301354(mm=2.20076) id1=91354(m1=1.30313):id2=201507(m2=0.897631) (r=1.08519) typem=1 type1=1 type2=1 
+t=1.22777 binary-single idm=232499(mm=14.5281) id1=22499(m1=14.5281):id2=152981(m2=1.27216) (r=0.0978935) typem=14 type1=14 type2=1 
+t=1.23999 single-single idm=313993(mm=1.12156) id1=180636(m1=0.328682):id2=103993(m2=0.792875) (r=0.631271) typem=1 type1=0 type2=1 b[RSUN]=9.25469 vinf[km/s]=6.78887
+t=1.25163 binary-single idm=286159(mm=0.564473) id1=76159(m1=0.388754):id2=201544(m2=0.175719) (r=1.38273) typem=0 type1=0 type2=0 
+t=1.38648 binary-binary idm=241078(mm=1.46635) id1=31078(m1=1.23473):id2=206523(m2=0.231621) (r=0.0948718) typem=1 type1=1 type2=0 
+t=1.42873 binary-binary idm=375021(mm=2.64328) id1=165021(m1=1.32429):id2=202695(m2=1.319) (r=0.207929) typem=1 type1=1 type2=1 
+t=1.48635 binary-single idm=313132(mm=2.33802) id1=103132(m1=1.26347):id2=203470(m2=1.07455) (r=0.368458) typem=1 type1=1 type2=1 
+t=1.59586 single-single idm=230830(mm=1.83088) id1=20830(m1=0.835881):id2=106600(m2=0.994998) (r=0.514568) typem=6 type1=1 type2=11 b[RSUN]=29.0264 vinf[km/s]=15.0023
+t=1.60782 binary-single idm=238905(mm=2.22098) id1=28905(m1=0.874782):id2=54691(m2=1.3462) (r=0.594335) typem=6 type1=11 type2=1 
+t=1.60913 binary-single idm=269092(mm=0.904104) id1=59092(m1=0.352772):id2=206940(m2=0.551332) (r=0.743784) typem=1 type1=0 type2=0 
+t=1.68145 single-single idm=307676(mm=1.48784) id1=101732(m1=0.131281):id2=97676(m2=1.35656) (r=2.56637) typem=1 type1=0 type2=1 b[RSUN]=133.37 vinf[km/s]=6.40109
+t=1.78148 binary-single idm=242568(mm=2.04739) id1=32568(m1=1.32863):id2=208963(m2=0.718768) (r=0.338158) typem=1 type1=1 type2=0 
+t=1.82724 binary-single idm=375066(mm=0.8915) id1=165066(m1=0.474032):id2=204211(m2=0.417468) (r=1.48921) typem=1 type1=0 type2=0 
+t=1.83358 binary-single idm=217459(mm=1.47665) id1=7459(m1=0.582154):id2=150374(m2=0.894495) (r=0.769184) typem=1 type1=0 type2=1 
+t=1.92056 binary-single idm=236836(mm=2.72933) id1=209681(m1=1.26906):id2=236835(m2=1.46027) (r=0.64567) typem=1 type1=1 type2=1 
+t=1.92237 binary-binary idm=376762(mm=1.80878) id1=166762(m1=1.09818):id2=208086(m2=0.710597) (r=0.0581696) typem=1 type1=1 type2=0 
+t=2.00297 binary-single idm=314261(mm=2.50031) id1=104261(m1=1.34639):id2=209018(m2=1.32101) (r=0.231542) typem=2 type1=2 type2=1 
+t=2.00497 binary-single idm=322763(mm=2.19412) id1=112763(m1=1.31306):id2=166547(m2=0.881057) (r=1.26106) typem=6 type1=1 type2=11 
+t=2.07664 single-single idm=235105(mm=1.20059) id1=25105(m1=0.230997):id2=104540(m2=0.969598) (r=0.855998) typem=1 type1=0 type2=1 b[RSUN]=44.403 vinf[km/s]=11.3875
+t=2.10447 binary-single idm=297292(mm=1.65374) id1=87292(m1=1.26505):id2=203389(m2=0.388684) (r=0.762646) typem=1 type1=1 type2=0 
+t=2.13863 binary-single idm=265392(mm=1.26979) id1=55392(m1=0.467929):id2=200934(m2=0.801857) (r=0.0986594) typem=1 type1=0 type2=1 
+t=2.18796 binary-binary idm=308359(mm=1.26956) id1=98359(m1=0.782699):id2=208461(m2=0.486858) (r=0.157163) typem=1 type1=1 type2=0 
+t=2.20595 binary-binary idm=302080(mm=1.15838) id1=169216(m1=0.989649):id2=92080(m2=0.168731) (r=0.315968) typem=1 type1=1 type2=0 
+t=2.29834 binary-binary idm=254903(mm=1.32386) id1=44903(m1=0.703218):id2=201824(m2=0.620642) (r=1.61811) typem=1 type1=0 type2=0 
+t=2.34169 single-single idm=369604(mm=0.887576) id1=174924(m1=0.129616):id2=159604(m2=0.757961) (r=3.07297) typem=1 type1=0 type2=1 b[RSUN]=121.126 vinf[km/s]=4.08231
+t=2.35294 binary-single idm=221064(mm=2.13117) id1=32454(m1=1.00549):id2=11064(m2=1.12568) (r=0.379963) typem=1 type1=1 type2=1 
+t=2.36815 binary-single idm=258473(mm=2.20881) id1=48473(m1=1.03469):id2=120831(m2=1.17411) (r=0.234564) typem=1 type1=1 type2=1 
+t=2.45528 single-single idm=291810(mm=1.65775) id1=81810(m1=0.59358):id2=94561(m2=1.06417) (r=0.223079) typem=1 type1=0 type2=1 b[RSUN]=44.6104 vinf[km/s]=13.8343
+t=2.79091 binary-single idm=271465(mm=1.2417) id1=61465(m1=0.519175):id2=202099(m2=0.722528) (r=0.384028) typem=1 type1=0 type2=0 
+t=2.79797 single-single idm=295589(mm=1.89773) id1=169476(m1=1.06279):id2=85589(m2=0.834935) (r=0.361467) typem=6 type1=1 type2=11 b[RSUN]=89.591 vinf[km/s]=9.51721
+t=2.85381 binary-binary idm=236369(mm=1.90725) id1=26369(m1=1.10378):id2=28714(m2=0.803468) (r=0.139864) typem=1 type1=1 type2=1 
+t=2.85745 binary-single idm=383312(mm=1.19463) id1=173312(m1=0.765181):id2=209545(m2=0.429451) (r=0.571575) typem=1 type1=1 type2=0 
+t=2.862 binary-single idm=240318(mm=1.83983) id1=81172(m1=1.81894):id2=30317(m2=0.193636):id3=200111(m3=0.0857234) (r=0.65614) typem=4 type1=4 type2=0 type3=0 
+t=2.8815 binary-binary idm=293219(mm=1.47702) id1=83219(m1=1.05136):id2=208123(m2=0.42566) (r=0.203477) typem=1 type1=1 type2=0 
+t=2.89817 binary-single idm=211077(mm=1.29383) id1=1077(m1=0.746918):id2=200723(m2=0.546914) (r=1.32658) typem=1 type1=0 type2=0 
+t=2.92906 binary-single idm=376638(mm=0.777119) id1=166638(m1=0.543588):id2=203316(m2=0.233531) (r=0.489872) typem=1 type1=0 type2=0 
+t=2.92968 binary-single idm=220610(mm=1.57629) id1=10610(m1=0.974303):id2=207301(m2=0.601989) (r=0.603787) typem=1 type1=1 type2=0 
+t=2.93965 binary-single idm=286402(mm=2.16322) id1=171579(m1=0.44027):id2=201393(m2=0.61208):id3=76401(m3=1.11087) (r=1.01569) typem=1 type1=0 type2=0 type3=1 
+t=2.97852 binary-single idm=333121(mm=1.19993) id1=123121(m1=0.851982):id2=193650(m2=1.18658) (r=0.234664) typem=5 type1=11 type2=3 
+t=3.0014 binary-binary idm=237104(mm=2.15386) id1=27104(m1=1.14422):id2=209685(m2=1.00964) (r=0.219604) typem=1 type1=1 type2=1 
+t=3.0014 binary-binary idm=227599(mm=2.22354) id1=383312(m1=1.19463):id2=17598(m2=1.0289) (r=0.219604) typem=1 type1=1 type2=1 
+t=3.01359 binary-single idm=227600(mm=3.35098) id1=97803(m1=1.12744):id2=227599(m2=2.22354) (r=0.298185) typem=1 type1=1 type2=1 
+t=3.25451 binary-single idm=257245(mm=1.55297) id1=47245(m1=0.790854):id2=209838(m2=0.762119) (r=0.252759) typem=1 type1=1 type2=1 
+t=3.39187 binary-single idm=364759(mm=1.12668) id1=154759(m1=1.06346):id2=201099(m2=0.548687) (r=0.41115) typem=4 type1=4 type2=0 
+t=3.50333 single-single idm=226010(mm=2.22224) id1=16010(m1=1.10711):id2=48749(m2=1.11513) (r=0.312522) typem=1 type1=1 type2=1 b[RSUN]=134.987 vinf[km/s]=6.84017
+t=3.54615 binary-binary idm=355433(mm=1.07084) id1=208016(m1=0.508442):id2=145433(m2=0.562394) (r=0.733619) typem=1 type1=0 type2=0 
+t=3.63372 single-single idm=218705(mm=1.59341) id1=8705(m1=0.758457):id2=161057(m2=0.834951) (r=0.259537) typem=1 type1=1 type2=1 b[RSUN]=213.082 vinf[km/s]=4.46607
+t=3.66295 binary-single idm=337553(mm=1.76089) id1=127553(m1=0.904405):id2=200115(m2=0.85648) (r=0.374991) typem=1 type1=1 type2=1 
+t=3.66449 binary-single idm=251171(mm=1.40836) id1=112265(m1=0.62865):id2=41170(m2=0.548198):id3=200148(m3=0.231516) (r=0.691308) typem=1 type1=0 type2=0 type3=0 
+t=3.67422 single-single idm=229433(mm=0.935781) id1=19433(m1=0.768383):id2=31757(m2=0.167397) (r=0.771965) typem=1 type1=1 type2=0 b[RSUN]=42.043 vinf[km/s]=12.2969
+t=3.68608 binary-single idm=333470(mm=1.80459) id1=123470(m1=0.786488):id2=142590(m2=1.0181) (r=0.411607) typem=1 type1=1 type2=1 
+t=3.69748 binary-single idm=364760(mm=1.53003) id1=165548(m1=0.850239):id2=364759(m2=0.679793) (r=0.163518) typem=6 type1=1 type2=11 
+t=3.71422 binary-single idm=211023(mm=2.20171) id1=1023(m1=1.10399):id2=134769(m2=1.09772) (r=0.102822) typem=1 type1=1 type2=1 
+t=3.80031 binary-single idm=309366(mm=1.35728) id1=99366(m1=0.666007):id2=114872(m2=0.691277) (r=0.143977) typem=6 type1=11 type2=0 
+t=3.80627 binary-single idm=252909(mm=0.822883) id1=42909(m1=0.692547):id2=206311(m2=0.130336) (r=1.16407) typem=6 type1=11 type2=0 
+t=3.83615 binary-single idm=234164(mm=1.39914) id1=24164(m1=0.724385):id2=207731(m2=0.674753) (r=0.455145) typem=1 type1=0 type2=0 
+t=3.86409 binary-binary idm=382095(mm=1.59468) id1=172095(m1=0.554979):id2=202651(m2=1.0397) (r=0.14936) typem=6 type1=11 type2=1 
+t=3.88377 binary-single idm=215643(mm=1.88372) id1=5643(m1=0.858182):id2=117760(m2=1.02553) (r=0.297025) typem=1 type1=1 type2=1 
+t=3.89954 binary-single idm=294009(mm=2.28804) id1=85331(m1=1.37874):id2=84009(m2=0.909302) (r=0.166861) typem=6 type1=12 type2=1 
+t=3.91527 single-single idm=240707(mm=1.57256) id1=30707(m1=1.08312):id2=84684(m2=0.489549) (r=0.460486) typem=3 type1=3 type2=0 b[RSUN]=664.491 vinf[km/s]=4.85384
+t=3.93659 binary-single idm=320584(mm=1.75569) id1=110584(m1=1.02784):id2=207737(m2=0.727847) (r=0.105243) typem=1 type1=1 type2=0 
+t=3.97255 binary-single idm=338660(mm=1.49907) id1=128660(m1=0.83725):id2=208388(m2=0.66182) (r=0.558413) typem=1 type1=1 type2=0 
+t=4.02507 single-single idm=268564(mm=1.50531) id1=130469(m1=0.990552):id2=58564(m2=0.514757) (r=0.337144) typem=6 type1=11 type2=0 b[RSUN]=31.1576 vinf[km/s]=12.8141
+t=4.02809 binary-binary idm=212773(mm=1.63986) id1=2773(m1=0.934226):id2=205763(m2=0.705632) (r=0.0859497) typem=1 type1=1 type2=0 
+t=4.03336 binary-single idm=327425(mm=1.89077) id1=120767(m1=0.966278):id2=117425(m2=0.924494) (r=0.0277564) typem=1 type1=1 type2=1 
+t=4.03459 binary-binary idm=230347(mm=1.57505) id1=20347(m1=1.02542):id2=201093(m2=0.54963) (r=0.0933945) typem=1 type1=1 type2=0 
+t=4.04047 binary-single idm=399560(mm=1.52728) id1=189560(m1=1.0078):id2=208457(m2=0.519479) (r=0.239385) typem=6 type1=11 type2=0 
+t=4.09503 binary-single idm=224741(mm=0.733333) id1=164128(m1=0.190438):id2=14741(m2=0.542896) (r=0.658309) typem=0 type1=0 type2=0 
+t=4.13245 binary-single idm=306766(mm=1.08143) id1=96766(m1=0.908119):id2=205508(m2=0.173308) (r=0.182421) typem=1 type1=1 type2=0 
+t=4.13444 binary-binary idm=308867(mm=1.57359) id1=98867(m1=0.646583):id2=123685(m2=0.92701) (r=0.189335) typem=1 type1=0 type2=1 
+t=4.16331 binary-single idm=212774(mm=13.9099) id1=144496(m1=13.9099):id2=212773(m2=1.63986) (r=0.0324935) typem=14 type1=14 type2=1 
+t=4.16368 binary-binary idm=351431(mm=2.08507) id1=201769(m1=0.69079):id2=208411(m2=0.658378):id3=141430(m3=0.735898) (r=0.157881) typem=1 type1=0 type2=0 type3=0 
+t=4.181 binary-single idm=308868(mm=2.52794) id1=158897(m1=1.0681):id2=308867(m2=1.57359) (r=0.0653142) typem=2 type1=2 type2=1 
+t=4.23068 binary-binary idm=216886(mm=1.37148) id1=6886(m1=0.916305):id2=205845(m2=0.455179) (r=0.16817) typem=1 type1=1 type2=0 
+t=4.23068 binary-binary idm=238947(mm=1.41041) id1=28947(m1=0.3617):id2=207880(m2=1.04871) (r=0.16817) typem=3 type1=10 type2=1 
+t=4.23489 binary-single idm=253383(mm=2.01223) id1=165647(m1=0.941977):id2=43383(m2=1.07026) (r=0.279443) typem=5 type1=11 type2=3 
+t=4.23856 binary-single idm=233177(mm=1.70504) id1=76585(m1=0.851764):id2=23177(m2=0.853278) (r=0.488014) typem=1 type1=1 type2=1 
+t=4.25936 binary-single idm=241699(mm=1.04313) id1=31699(m1=0.939709):id2=208274(m2=0.103425) (r=0.654023) typem=1 type1=1 type2=0 
+t=4.33647 binary-single idm=295117(mm=1.80301) id1=112251(m1=0.980933):id2=85117(m2=0.822073) (r=0.0518872) typem=1 type1=1 type2=1 
+t=4.34757 binary-binary idm=356366(mm=1.07808) id1=146366(m1=0.598285):id2=207274(m2=0.479799) (r=0.28021) typem=6 type1=11 type2=0 
+t=4.34757 binary-binary idm=242569(mm=1.29238) id1=242568(m1=0.674133):id2=117547(m2=0.618248) (r=0.28021) typem=6 type1=11 type2=0 
+t=4.42454 binary-single idm=269469(mm=1.7798) id1=59469(m1=0.907743):id2=206214(m2=0.872055) (r=0.245201) typem=1 type1=1 type2=1 
+t=4.42729 single-single idm=359078(mm=1.76065) id1=149078(m1=0.935078):id2=164064(m2=1.05029) (r=0.540885) typem=5 type1=11 type2=2 b[RSUN]=2497.62 vinf[km/s]=0.596965
+t=4.43387 binary-single idm=212775(mm=13.9099) id1=142919(m1=0.858532):id2=212774(m2=13.9099) (r=0.042694) typem=14 type1=1 type2=14 
+t=4.47983 single-single idm=213621(mm=1.72649) id1=29776(m1=1.05181):id2=3621(m2=0.957272) (r=0.149199) typem=3 type1=3 type2=1 b[RSUN]=152 vinf[km/s]=4.99326
+t=4.4931 binary-single idm=331994(mm=1.44619) id1=121994(m1=0.721154):id2=204304(m2=0.725036) (r=0.450675) typem=1 type1=0 type2=0 
+t=4.51383 binary-single idm=385710(mm=1.84777) id1=175710(m1=1.35766):id2=204435(m2=0.490105) (r=0.230116) typem=6 type1=12 type2=0 
+t=4.53794 binary-binary idm=383392(mm=1.62593) id1=173392(m1=0.848024):id2=206260(m2=0.777907) (r=0.045666) typem=1 type1=1 type2=1 
+t=4.54185 binary-binary idm=227339(mm=1.7035) id1=17339(m1=0.991213):id2=202720(m2=0.71229) (r=0.0689657) typem=1 type1=1 type2=0 
+t=4.55106 binary-binary idm=294936(mm=1.82314) id1=84936(m1=0.913858):id2=202856(m2=0.90928) (r=0.0693146) typem=1 type1=1 type2=1 
+t=4.55756 single-single idm=238986(mm=2.00915) id1=101138(m1=1.00575):id2=28986(m2=1.00339) (r=0.3582) typem=1 type1=1 type2=1 b[RSUN]=124.79 vinf[km/s]=6.36836
+t=4.57429 binary-single idm=220632(mm=2.39679) id1=10631(m1=0.997654):id2=234164(m2=1.39914) (r=0.226672) typem=1 type1=1 type2=1 
+t=4.57774 binary-single idm=358122(mm=1.71709) id1=148122(m1=1.00413):id2=201947(m2=0.712957) (r=0.10327) typem=1 type1=1 type2=0 
+t=4.60661 binary-binary idm=372853(mm=1.66019) id1=162853(m1=0.674106):id2=169052(m2=1.04442) (r=0.0856782) typem=3 type1=0 type2=3 
+t=4.61359 binary-single idm=350783(mm=2.62377) id1=140782(m1=0.997841):id2=383392(m2=1.62593) (r=0.149003) typem=1 type1=1 type2=1 
+t=4.62297 binary-binary idm=271466(mm=1.98388) id1=163903(m1=0.742177):id2=271465(m2=1.2417) (r=0.0990797) typem=1 type1=0 type2=1 
+t=4.62358 binary-binary idm=341737(mm=0.925801) id1=131737(m1=0.473608):id2=202890(m2=0.452193) (r=0.0501035) typem=1 type1=0 type2=0 
+t=4.63814 binary-binary idm=418417(mm=1.47515) id1=209176(m1=0.618382):id2=208417(m2=0.856767) (r=0.179915) typem=1 type1=0 type2=1 
+t=4.64708 binary-single idm=313253(mm=1.42652) id1=103253(m1=0.918256):id2=205616(m2=0.508261) (r=0.206851) typem=1 type1=1 type2=0 
+t=4.65605 single-single idm=246381(mm=2.62107) id1=105647(m1=0.963116):id2=36381(m2=1.79722) (r=0.0522939) typem=3 type1=1 type2=3 b[RSUN]=168.873 vinf[km/s]=12.5748
+t=4.65635 binary-single idm=210400(mm=0.980378) id1=400(m1=0.660101):id2=206979(m2=0.320277) (r=0.12572) typem=1 type1=0 type2=0 
+t=4.66955 binary-single idm=268744(mm=1.55233) id1=58744(m1=0.970899):id2=204541(m2=0.581428) (r=0.176643) typem=1 type1=1 type2=0 
+t=4.68676 binary-single idm=387075(mm=1.36281) id1=177075(m1=0.555011):id2=206780(m2=0.807803) (r=0.0724744) typem=1 type1=0 type2=1 
+t=4.68873 binary-binary idm=264754(mm=1.96494) id1=177331(m1=0.973186):id2=54754(m2=0.991755) (r=0.190258) typem=6 type1=1 type2=11 
+t=4.72388 binary-single idm=237459(mm=1.30795) id1=27459(m1=0.691828):id2=207108(m2=0.616117) (r=1.93262) typem=1 type1=0 type2=0 
+t=4.7254 binary-single idm=335780(mm=1.98035) id1=125780(m1=0.971292):id2=143386(m2=1.00906) (r=0.127325) typem=6 type1=1 type2=11 
+t=4.74506 binary-single idm=220633(mm=2.97605) id1=107410(m1=0.579262):id2=220632(m2=2.39679) (r=0.156147) typem=1 type1=0 type2=1 
+t=4.76163 single-single idm=310067(mm=1.66052) id1=119530(m1=1.01599):id2=100067(m2=0.644534) (r=0.277451) typem=6 type1=1 type2=11 b[RSUN]=14.0441 vinf[km/s]=10.3407
+t=4.76882 binary-single idm=361571(mm=1.8727) id1=151571(m1=0.994879):id2=191941(m2=0.87782) (r=0.2282) typem=6 type1=11 type2=1 
+t=4.76951 binary-single idm=253664(mm=1.51653) id1=43664(m1=1.02801):id2=165209(m2=0.670168) (r=0.0597789) typem=5 type1=2 type2=11 
+t=4.78367 binary-single idm=354135(mm=1.46214) id1=144135(m1=0.737652):id2=205461(m2=0.724491) (r=0.055958) typem=1 type1=0 type2=0 
+t=4.78658 binary-single idm=383764(mm=1.99341) id1=173764(m1=0.96508):id2=175212(m2=1.02833) (r=0.0672625) typem=5 type1=11 type2=2 
+t=4.79586 binary-single idm=235092(mm=2.23941) id1=74678(m1=0.935365):id2=25092(m2=1.30404) (r=0.0971231) typem=6 type1=1 type2=12 
+t=4.81755 binary-single idm=358163(mm=1.87524) id1=148163(m1=0.95792):id2=170202(m2=0.917319) (r=0.0654357) typem=1 type1=1 type2=1 
+t=4.82824 binary-binary idm=212778(mm=13.9099) id1=212775(m1=13.9099):id2=206468(m2=0.885106):id3=294936(m3=1.82314) (r=0.0378153) typem=14 type1=14 type2=1 type3=1 
+t=4.83738 binary-binary idm=288182(mm=1.79672) id1=78182(m1=0.977992):id2=161341(m2=0.81873) (r=0.0173666) typem=6 type1=11 type2=1 
+t=4.84871 binary-binary idm=379623(mm=1.13008) id1=169623(m1=0.621418):id2=204938(m2=0.508665) (r=0.0521368) typem=1 type1=0 type2=0 
+t=4.85095 binary-single idm=250913(mm=1.84928) id1=40913(m1=0.995409):id2=204991(m2=0.853868) (r=0.159045) typem=6 type1=11 type2=1 
+t=4.85359 binary-single idm=269042(mm=0.381044) id1=59042(m1=0.299661):id2=208798(m2=0.0813827) (r=1.32877) typem=0 type1=0 type2=0 
+t=4.8565 single-single idm=282849(mm=1.87388) id1=72849(m1=0.910272):id2=103488(m2=0.963611) (r=0.244692) typem=6 type1=1 type2=11 b[RSUN]=132.852 vinf[km/s]=3.77953
+t=4.85754 single-single idm=311181(mm=1.52994) id1=101181(m1=1.02853):id2=193143(m2=1.00155) (r=0.123868) typem=3 type1=3 type2=1 b[RSUN]=537.484 vinf[km/s]=4.6761
+t=4.86652 binary-single idm=320469(mm=2.09528) id1=110469(m1=0.870943):id2=154481(m2=1.22434) (r=0.0321544) typem=6 type1=1 type2=12 
+t=4.88764 binary-binary idm=333122(mm=1.78398) id1=333121(m1=0.788974):id2=201510(m2=0.995006) (r=0.0684308) typem=6 type1=11 type2=1 
+t=4.90552 binary-binary idm=263363(mm=2.18513) id1=53362(m1=0.738944):id2=331994(m2=1.44619) (r=0.0836172) typem=1 type1=0 type2=1 
+t=4.90805 binary-binary idm=358123(mm=2.41786) id1=202053(m1=0.700773):id2=358122(m2=1.71709) (r=0.0965731) typem=1 type1=0 type2=1 
+t=4.90805 binary-binary idm=272112(mm=0.331264) id1=62112(m1=0.2202):id2=204173(m2=0.111064) (r=0.177323) typem=0 type1=0 type2=0 
+t=4.92114 binary-binary idm=375156(mm=1.6086) id1=165156(m1=0.894465):id2=202103(m2=0.714132) (r=0.0614905) typem=1 type1=1 type2=0 
+t=4.92865 binary-binary idm=325671(mm=1.94536) id1=115671(m1=0.977861):id2=207053(m2=0.967499) (r=0.026837) typem=1 type1=1 type2=1 
+t=4.93425 binary-single idm=271190(mm=1.75071) id1=61190(m1=0.882423):id2=157435(m2=0.868287) (r=0.0763031) typem=1 type1=1 type2=1 
+t=4.93817 single-single idm=221370(mm=1.98922) id1=11370(m1=0.958252):id2=125304(m2=1.03097) (r=0.123025) typem=6 type1=1 type2=11 b[RSUN]=81.5001 vinf[km/s]=8.80698
+t=4.93928 single-single idm=303030(mm=1.56667) id1=93030(m1=0.578115):id2=169500(m2=0.988554) (r=0.129852) typem=6 type1=0 type2=11 b[RSUN]=115.724 vinf[km/s]=4.45026
+t=4.94669 binary-binary idm=275776(mm=2.04518) id1=65775(m1=0.633362):id2=158839(m2=0.868076):id3=201123(m3=0.543742) (r=0.204444) typem=1 type1=0 type2=1 type3=0 
+t=4.9492 binary-single idm=258818(mm=1.99765) id1=48818(m1=1.01791):id2=55974(m2=0.980321) (r=0.0446703) typem=5 type1=3 type2=11 
+t=4.95087 binary-single idm=215790(mm=1.5586) id1=5790(m1=0.934474):id2=130554(m2=0.62413) (r=0.0708501) typem=1 type1=1 type2=0 
+t=4.95283 binary-binary idm=253510(mm=1.92492) id1=43510(m1=0.916763):id2=134452(m2=1.00816) (r=0.0134117) typem=6 type1=1 type2=11 
+t=4.95594 binary-single idm=249354(mm=1.63616) id1=39891(m1=0.704253):id2=39354(m2=0.931903) (r=0.0719648) typem=1 type1=0 type2=1 
+t=4.95875 binary-single idm=386072(mm=1.77609) id1=176072(m1=0.934758):id2=209566(m2=0.841336) (r=0.0991374) typem=1 type1=1 type2=1 
+t=4.96279 binary-binary idm=354833(mm=1.2439) id1=200599(m1=0.642423):id2=144833(m2=0.601479) (r=0.154935) typem=1 type1=0 type2=0 
+t=4.96479 binary-binary idm=260555(mm=3.1268) id1=50554(m1=1.25156):id2=358163(m2=1.87524) (r=0.0218267) typem=6 type1=12 type2=1 
+t=4.96818 binary-single idm=258820(mm=13.978) id1=258818(m1=13.978):id2=358123(m2=2.41786) (r=0.0117831) typem=14 type1=14 type2=1 
+t=4.97355 binary-single idm=312046(mm=1.97502) id1=102046(m1=0.974711):id2=130320(m2=1.00031) (r=0.0472922) typem=1 type1=1 type2=1 
+t=4.9744 binary-single idm=232612(mm=2.09957) id1=22612(m1=0.739994):id2=77165(m2=1.35958) (r=0.155781) typem=6 type1=0 type2=12 
+t=4.97739 binary-single idm=278911(mm=1.3509) id1=68911(m1=0.694905):id2=209695(m2=0.655997) (r=0.308506) typem=1 type1=0 type2=0 
+t=4.98337 binary-single idm=223606(mm=1.16904) id1=13606(m1=0.642655):id2=201090(m2=0.526387) (r=0.298019) typem=1 type1=0 type2=0 
+t=4.99487 binary-binary idm=285286(mm=1.88255) id1=75285(m1=0.811715):id2=355433(m2=1.07084) (r=0.0617553) typem=1 type1=1 type2=1 
+t=4.997 binary-single idm=269470(mm=2.76154) id1=107240(m1=0.981738):id2=269469(m2=1.7798) (r=0.11613) typem=1 type1=1 type2=1 
+t=5.01066 binary-binary idm=320471(mm=3.19891) id1=320469(m1=1.25355):id2=325671(m2=1.94536) (r=0.0671812) typem=6 type1=12 type2=1 
+t=5.01512 binary-binary idm=341738(mm=1.79066) id1=174932(m1=0.864861):id2=341737(m2=0.925801) (r=0.336247) typem=1 type1=1 type2=1 
+t=5.03183 binary-single idm=235093(mm=2.28798) id1=235092(m1=1.30404):id2=172614(m2=0.983938) (r=0.0201395) typem=6 type1=12 type2=1 
+t=5.03945 binary-single idm=288895(mm=1.54238) id1=103372(m1=0.875401):id2=78895(m2=0.666977) (r=0.0375211) typem=6 type1=11 type2=0 
+t=5.05231 binary-single idm=358484(mm=1.242) id1=148484(m1=1.242):id2=153123(m2=0.835808) (r=0.070146) typem=13 type1=13 type2=1 
+t=5.07836 binary-single idm=387076(mm=2.34712) id1=188643(m1=0.984306):id2=387075(m2=1.36281) (r=0.0523236) typem=1 type1=1 type2=1 
+t=5.08234 binary-single idm=231674(mm=1.81061) id1=124351(m1=0.958221):id2=21674(m2=0.852391) (r=0.106599) typem=1 type1=1 type2=1 
+t=5.09135 binary-single idm=241700(mm=1.62251) id1=154673(m1=1.26329):id2=241699(m2=1.09868) (r=0.0781981) typem=4 type1=4 type2=1 
+t=5.09751 binary-single idm=269231(mm=1.49931) id1=59231(m1=1.04606):id2=209059(m2=0.453246) (r=0.164467) typem=6 type1=11 type2=0 
+t=5.10977 binary-single idm=289133(mm=1.9058) id1=79133(m1=0.998218):id2=171209(m2=0.907577) (r=0.121631) typem=1 type1=1 type2=1 
+t=5.12965 binary-binary idm=417989(mm=1.40035) id1=207989(m1=0.557262):id2=208187(m2=0.843087) (r=0.036831) typem=1 type1=0 type2=1 
+t=5.13221 binary-single idm=303925(mm=1.59884) id1=124141(m1=0.644547):id2=93925(m2=0.954296) (r=0.139529) typem=6 type1=11 type2=1 
+t=5.13695 binary-single idm=318299(mm=0.871282) id1=108299(m1=0.61511):id2=200109(m2=0.256172) (r=0.0770493) typem=1 type1=0 type2=0 
+t=5.13843 single-single idm=230348(mm=2.57904) id1=166489(m1=1.00399):id2=230347(m2=1.57505) (r=0.0791641) typem=6 type1=11 type2=1 b[RSUN]=26.7098 vinf[km/s]=5.59859
+t=5.14006 binary-binary idm=256563(mm=1.69612) id1=46562(m1=0.760882):id2=207357(m2=0.14992):id3=160578(m3=0.78532) (r=0.127257) typem=1 type1=1 type2=0 type3=1 
+t=5.1471 binary-single idm=369130(mm=1.91406) id1=182148(m1=0.970975):id2=159130(m2=0.94309) (r=0.140856) typem=6 type1=1 type2=11 
+t=5.14776 binary-binary idm=258821(mm=13.978) id1=157059(m1=0.956753):id2=258820(m2=13.978) (r=0.0411579) typem=14 type1=1 type2=14 
+t=5.15101 binary-single idm=282174(mm=0.829669) id1=72174(m1=0.456154):id2=207290(m2=0.373515) (r=0.288954) typem=1 type1=0 type2=0 
+t=5.15372 binary-single idm=248124(mm=1.01787) id1=38124(m1=0.768625):id2=205112(m2=0.24924) (r=0.0901183) typem=1 type1=1 type2=0 
+t=5.16406 binary-single idm=350784(mm=1.87303) id1=350783(m1=1.25195):id2=200756(m2=0.621081) (r=0.238324) typem=6 type1=12 type2=0 
+t=5.20222 binary-single idm=333663(mm=1.86837) id1=123663(m1=0.886318):id2=160213(m2=0.982057) (r=0.106073) typem=1 type1=1 type2=1 
+t=5.22239 binary-single idm=370160(mm=1.9518) id1=160160(m1=0.991005):id2=180058(m2=0.960796) (r=0.0683446) typem=6 type1=11 type2=1 
+t=5.23586 binary-single idm=221277(mm=2.34751) id1=11277(m1=1.34143):id2=111212(m2=1.00611) (r=0.0438224) typem=5 type1=12 type2=3 
+t=5.24397 binary-single idm=333664(mm=2.50826) id1=333663(m1=1.86837):id2=208148(m2=0.639887) (r=0.105656) typem=1 type1=1 type2=0 
+t=5.25048 binary-single idm=311431(mm=1.76678) id1=101431(m1=0.772705):id2=108880(m2=0.994071) (r=0.0454133) typem=6 type1=11 type2=1 
+t=5.26866 binary-binary idm=371859(mm=1.36879) id1=180322(m1=0.752119):id2=161859(m2=0.616673) (r=0.0382787) typem=1 type1=0 type2=0 
+t=5.27932 binary-single idm=368497(mm=3.60076) id1=158496(m1=1.25364):id2=387076(m2=2.34712) (r=0.0326543) typem=6 type1=12 type2=1 
+t=5.28575 binary-single idm=337559(mm=2.37722) id1=127558(m1=0.976871):id2=417989(m2=1.40035) (r=0.112346) typem=1 type1=1 type2=1 
+t=5.29763 binary-single idm=262988(mm=1.54589) id1=75663(m1=0.666964):id2=52988(m2=0.87893) (r=0.133201) typem=1 type1=0 type2=1 
+t=5.31327 binary-single idm=228724(mm=1.68885) id1=18724(m1=0.872096):id2=153862(m2=0.816757) (r=0.0695279) typem=6 type1=11 type2=1 
+t=5.3133 binary-binary idm=222423(mm=1.98481) id1=12423(m1=1.12765):id2=13456(m2=0.857157) (r=0.046781) typem=6 type1=11 type2=1 
+t=5.3296 binary-single idm=289134(mm=2.86553) id1=95107(m1=0.959733):id2=289133(m2=1.90579) (r=0.0834724) typem=1 type1=1 type2=1 
+t=5.33041 binary-single idm=238079(mm=1.47209) id1=162518(m1=0.700493):id2=28079(m2=0.771598) (r=0.103652) typem=6 type1=11 type2=1 
+t=5.33422 binary-single idm=224231(mm=1.54013) id1=14231(m1=0.600426):id2=84762(m2=0.939706) (r=0.305137) typem=1 type1=0 type2=1 
+t=5.339 binary-single idm=284819(mm=1.70295) id1=74819(m1=0.993468):id2=174335(m2=0.709479) (r=0.146372) typem=6 type1=11 type2=0 
+t=5.3412 binary-single idm=221812(mm=2.80624) id1=11811(m1=1.34409):id2=354135(m2=1.46214) (r=0.0962198) typem=6 type1=12 type2=1 
+t=5.34304 binary-single idm=322416(mm=1.43147) id1=112416(m1=0.999814):id2=205198(m2=0.776403) (r=0.096457) typem=3 type1=3 type2=1 
+t=5.34967 binary-binary idm=322418(mm=2.53587) id1=322416(m1=1.43136):id2=208146(m2=0.551501):id3=196607(m3=0.842084) (r=0.0263519) typem=3 type1=3 type2=0 type3=1 
+t=5.35032 binary-binary idm=251334(mm=1.48443) id1=148381(m1=0.670386):id2=41334(m2=0.814045) (r=0.0735113) typem=6 type1=0 type2=11 
+t=5.37412 binary-binary idm=258822(mm=13.978) id1=178907(m1=0.862407):id2=258821(m2=13.978) (r=0.0172829) typem=14 type1=1 type2=14 
+t=5.38233 binary-single idm=323860(mm=2.06642) id1=113860(m1=1.29431):id2=133758(m2=0.77211) (r=0.0793943) typem=6 type1=12 type2=1 
+t=5.38403 binary-single idm=348443(mm=1.76362) id1=138443(m1=0.901251):id2=152968(m2=0.862372) (r=0.0566136) typem=6 type1=11 type2=1 
+t=5.40191 binary-single idm=289768(mm=3.43578) id1=79767(m1=1.05856):id2=337559(m2=2.37722) (r=0.106487) typem=6 type1=11 type2=1 
+t=5.40468 binary-single idm=229847(mm=1.7159) id1=19847(m1=0.894544):id2=206162(m2=0.821358) (r=0.100065) typem=1 type1=1 type2=1 
+t=5.41061 binary-single idm=249202(mm=1.768) id1=39202(m1=0.848287):id2=180796(m2=0.91971) (r=0.094855) typem=1 type1=1 type2=1 
+t=5.41339 binary-single idm=258823(mm=13.978) id1=91164(m1=0.890062):id2=258822(m2=13.978) (r=0.019026) typem=14 type1=1 type2=14 
+t=5.41396 binary-single idm=222424(mm=2.08277) id1=186363(m1=0.955119):id2=222423(m2=1.12765) (r=0.087771) typem=6 type1=1 type2=11 
+t=5.41628 binary-binary idm=275792(mm=2.2986) id1=65791(m1=0.938523):id2=71130(m2=0.683552):id3=201585(m3=0.676528) (r=0.0493944) typem=1 type1=1 type2=0 type3=0 
+t=5.4168 binary-single idm=223274(mm=1.43306) id1=13274(m1=0.664553):id2=71589(m2=0.76851) (r=0.1123) typem=6 type1=11 type2=1 
+t=5.41929 single-single idm=256675(mm=0.348893) id1=46675(m1=0.203999):id2=73770(m2=0.144894) (r=10.0899) typem=0 type1=0 type2=0 b[RSUN]=35.487 vinf[km/s]=3.71926
+t=5.4237 binary-single idm=314015(mm=1.5281) id1=181123(m1=0.980031):id2=104015(m2=0.548071) (r=0.144681) typem=6 type1=11 type2=0 
+t=5.42402 single-single idm=327555(mm=1.47126) id1=138132(m1=0.716463):id2=117555(m2=0.754799) (r=0.220481) typem=6 type1=11 type2=0 b[RSUN]=40.9676 vinf[km/s]=10.8925
+t=5.43473 binary-single idm=324473(mm=1.76542) id1=114473(m1=0.91254):id2=131257(m2=0.852878) (r=0.0436266) typem=6 type1=11 type2=1 
+t=5.44855 binary-single idm=269630(mm=1.26071) id1=59629(m1=1.26071):id2=354833(m2=1.2439) (r=0.108857) typem=13 type1=13 type2=1 
+t=5.45285 binary-single idm=310876(mm=1.61366) id1=100876(m1=0.867727):id2=140866(m2=0.745937) (r=0.0466624) typem=1 type1=1 type2=0 
+t=5.46779 binary-single idm=260717(mm=1.90881) id1=79504(m1=0.784774):id2=50717(m2=1.12404) (r=0.0613423) typem=6 type1=1 type2=11 
+t=5.47537 binary-single idm=392139(mm=1.51831) id1=182139(m1=0.948458):id2=202724(m2=0.569854) (r=0.0593979) typem=1 type1=1 type2=0 
+t=5.48756 single-single idm=333966(mm=2.2503) id1=123966(m1=1.32974):id2=145654(m2=0.920562) (r=0.120032) typem=6 type1=12 type2=1 b[RSUN]=142.273 vinf[km/s]=4.55482
+t=5.49383 binary-single idm=336730(mm=1.27076) id1=126730(m1=0.41295):id2=201649(m2=0.857808) (r=0.158818) typem=1 type1=0 type2=1 
+t=5.49431 binary-single idm=282298(mm=1.89363) id1=72297(m1=0.981087):id2=324473(m2=0.91254) (r=0.122797) typem=6 type1=1 type2=11 
+t=5.49886 binary-binary idm=307220(mm=1.78376) id1=97220(m1=0.840828):id2=119910(m2=0.942935) (r=0.0407007) typem=6 type1=11 type2=1 
+t=5.50806 binary-single idm=222264(mm=1.98623) id1=12264(m1=0.995285):id2=140606(m2=0.991035) (r=0.0318909) typem=5 type1=11 type2=3 
+t=5.5136 binary-single idm=213943(mm=13.978) id1=3942(m1=0.955571):id2=258823(m2=13.978) (r=0.0160311) typem=14 type1=1 type2=14 
+t=5.51661 binary-single idm=213945(mm=13.978) id1=213943(m1=13.978):id2=289134(m2=2.86551) (r=0.013906) typem=14 type1=14 type2=1 
+t=5.53247 single-single idm=311801(mm=1.90228) id1=101801(m1=0.965804):id2=198914(m2=0.936474) (r=0.0572709) typem=1 type1=1 type2=1 b[RSUN]=96.414 vinf[km/s]=9.17361
+t=5.53347 binary-single idm=213946(mm=13.978) id1=32200(m1=0.912364):id2=213945(m2=13.978) (r=0.0205036) typem=14 type1=1 type2=14 
+t=5.53878 binary-single idm=274476(mm=1.75744) id1=173749(m1=0.932325):id2=64476(m2=0.825111) (r=0.0740822) typem=6 type1=11 type2=1 
+t=5.547 binary-single idm=248331(mm=2.59201) id1=38330(m1=0.978342):id2=310876(m2=1.61366) (r=0.0472362) typem=6 type1=11 type2=1 
+t=5.54801 binary-binary idm=228508(mm=1.49412) id1=18508(m1=0.6943):id2=198491(m2=0.799823) (r=0.0282381) typem=6 type1=0 type2=11 
+t=5.54886 binary-single idm=213299(mm=1.85196) id1=3299(m1=0.733332):id2=180586(m2=1.11862) (r=0.109964) typem=6 type1=0 type2=11 
+t=5.55302 binary-binary idm=306772(mm=2.84819) id1=96770(m1=0.970946):id2=205256(m2=0.101146):id3=386072(m3=1.77609) (r=0.0915384) typem=1 type1=1 type2=0 type3=1 
+t=5.55308 binary-binary idm=221065(mm=1.5688) id1=201566(m1=0.875856):id2=221064(m2=0.692943) (r=0.0801903) typem=6 type1=1 type2=11 
+t=5.55941 binary-binary idm=216888(mm=1.73317) id1=216886(m1=1.37149):id2=238947(m2=0.361683) (r=0.0276013) typem=8 type1=1 type2=11 
+t=5.56986 binary-binary idm=217187(mm=1.45709) id1=7187(m1=0.698557):id2=207323(m2=0.758531) (r=0.0957022) typem=6 type1=11 type2=1 
+t=5.58822 binary-single idm=382421(mm=0.474019) id1=172421(m1=0.984761):id2=207664(m2=0.141687) (r=0.539699) typem=3 type1=3 type2=0 
+t=5.59028 binary-single idm=234682(mm=1.64173) id1=24682(m1=0.896036):id2=174042(m2=0.745695) (r=0.0369858) typem=6 type1=1 type2=11 
+t=5.59306 binary-single idm=387265(mm=2.38415) id1=177264(m1=0.909004):id2=418417(m2=1.47515) (r=0.0736575) typem=1 type1=1 type2=1 
+t=5.59373 binary-binary idm=264857(mm=1.33566) id1=54857(m1=0.864525):id2=209562(m2=0.471132) (r=0.00839954) typem=1 type1=1 type2=0 
+t=5.59709 binary-single idm=228810(mm=2.27552) id1=18810(m1=0.954715):id2=64664(m2=1.3208) (r=0.047412) typem=6 type1=1 type2=12 
+t=5.60075 binary-single idm=228568(mm=1.52951) id1=140947(m1=0.761503):id2=18568(m2=0.768008) (r=0.200555) typem=1 type1=1 type2=1 
+t=5.60394 binary-single idm=213948(mm=14.4671) id1=264857(m1=1.33566):id2=213946(m2=14.4671) (r=0.026751) typem=14 type1=1 type2=14 
+t=5.60602 binary-binary idm=364986(mm=1.14148) id1=196530(m1=0.952001):id2=171936(m2=1.31734):id3=154985(m3=1.31649) (r=0.0213113) typem=13 type1=1 type2=12 type3=12 
+t=5.61102 binary-binary idm=312769(mm=1.17074) id1=102769(m1=0.726409):id2=209912(m2=0.444335) (r=0.0328914) typem=1 type1=0 type2=0 
+t=5.6299 binary-single idm=304981(mm=2.07566) id1=94981(m1=1.15587):id2=145557(m2=0.919785) (r=0.0468215) typem=6 type1=11 type2=1 
+t=5.63404 binary-binary idm=224232(mm=2.40819) id1=205943(m1=0.868053):id2=224231(m2=1.54013) (r=0.0451098) typem=1 type1=1 type2=1 
+t=5.64714 binary-single idm=387495(mm=1.2187) id1=177495(m1=0.798263):id2=207208(m2=0.420438) (r=0.0353311) typem=1 type1=1 type2=0 
+t=5.64817 binary-single idm=373954(mm=1.46534) id1=163954(m1=0.975255):id2=202263(m2=0.490088) (r=0.0478514) typem=1 type1=1 type2=0 
+t=5.66848 binary-binary idm=372026(mm=2.25587) id1=162026(m1=0.956591):id2=199935(m2=1.29928) (r=0.0114352) typem=6 type1=1 type2=12 
+t=5.67958 binary-binary idm=292560(mm=1.13598) id1=82560(m1=0.643203):id2=206350(m2=0.492773) (r=0.062896) typem=1 type1=0 type2=0 
+t=5.68134 binary-single idm=306773(mm=3.94167) id1=166709(m1=0.936538):id2=306772(m2=3.00514) (r=0.0491688) typem=1 type1=1 type2=1 
+t=5.6868 binary-binary idm=316780(mm=1.46416) id1=106780(m1=0.872988):id2=202059(m2=0.591175) (r=0.0546439) typem=1 type1=1 type2=0 
+t=5.68693 binary-single idm=257128(mm=1.53027) id1=47128(m1=0.913824):id2=200994(m2=0.616445) (r=0.0556234) typem=6 type1=11 type2=0 
+t=5.6946 binary-binary idm=258821(mm=1.66789) id1=48821(m1=0.882673):id2=200522(m2=0.785221) (r=0.0296795) typem=1 type1=1 type2=1 
+t=5.6946 binary-binary idm=274644(mm=1.51839) id1=73492(m1=0.543415):id2=64644(m2=0.974972) (r=0.0296795) typem=1 type1=0 type2=1 
+t=5.6965 binary-single idm=373812(mm=1.74723) id1=163812(m1=0.850378):id2=176330(m2=0.896856) (r=0.0983586) typem=1 type1=1 type2=1 
+t=5.70583 binary-single idm=374249(mm=2.06254) id1=164249(m1=0.691542):id2=174503(m2=1.371) (r=0.0518116) typem=6 type1=0 type2=12 
+t=5.70685 binary-single idm=402326(mm=1.18016) id1=192326(m1=0.808071):id2=205394(m2=0.372089) (r=0.310487) typem=1 type1=1 type2=0 
+t=5.71529 single-single idm=256611(mm=1.30136) id1=52173(m1=0.554942):id2=46611(m2=0.746422) (r=0.410306) typem=6 type1=0 type2=11 b[RSUN]=23.2631 vinf[km/s]=14.9613
+t=5.72412 binary-single idm=268447(mm=5.07022) id1=58446(m1=0.717242):id2=306773(m2=4.35298) (r=0.0349331) typem=6 type1=11 type2=1 
+t=5.72503 binary-binary idm=258822(mm=2.24648) id1=258821(m1=1.66789):id2=139436(m2=0.578591) (r=0.0587091) typem=1 type1=1 type2=0 
+t=5.73652 binary-binary idm=268849(mm=1.86724) id1=58849(m1=0.927689):id2=170195(m2=0.939547) (r=0.0469008) typem=1 type1=1 type2=1 
+t=5.73768 binary-single idm=223366(mm=1.57713) id1=120552(m1=0.480593):id2=13366(m2=1.09654) (r=0.0787775) typem=6 type1=0 type2=11 
+t=5.73826 binary-binary idm=340188(mm=2.1142) id1=208334(m1=0.702398):id2=192292(m2=0.419325):id3=130187(m3=0.992841) (r=0.0547974) typem=5 type1=0 type2=10 type3=11 
+t=5.73924 binary-binary idm=268858(mm=1.32403) id1=58858(m1=0.589514):id2=202409(m2=0.734518) (r=0.0421723) typem=1 type1=0 type2=0 
+t=5.74094 binary-single idm=258190(mm=2.11835) id1=48190(m1=1.3268):id2=101189(m2=0.79155) (r=0.0131646) typem=6 type1=12 type2=1 
+t=5.74688 binary-single idm=291756(mm=1.99233) id1=81756(m1=0.978652):id2=162624(m2=1.01375) (r=0.0658703) typem=5 type1=3 type2=11 
+t=5.74901 binary-binary idm=404889(mm=1.22918) id1=194889(m1=0.655123):id2=205152(m2=0.57406) (r=0.0376023) typem=1 type1=0 type2=0 
+t=5.74901 binary-binary idm=238725(mm=1.5957) id1=205401(m1=0.681189):id2=28725(m2=0.914511) (r=0.0376023) typem=1 type1=0 type2=1 
+t=5.7512 binary-single idm=235685(mm=1.43532) id1=120555(m1=0.475397):id2=25685(m2=0.959924) (r=0.104234) typem=3 type1=0 type2=3 
+t=5.75537 binary-single idm=272591(mm=1.62011) id1=62591(m1=0.966684):id2=187451(m2=0.653421) (r=0.0463032) typem=6 type1=11 type2=0 
+t=5.76206 binary-single idm=282417(mm=1.72222) id1=72417(m1=1.00574):id2=201557(m2=0.716476) (r=0.0424819) typem=6 type1=11 type2=0 
+t=5.76417 binary-single idm=360184(mm=2.0649) id1=150183(m1=0.884745):id2=402326(m2=1.18016) (r=0.0666374) typem=1 type1=1 type2=1 
+t=5.76879 binary-binary idm=268746(mm=3.15595) id1=274476(m1=0.932325):id2=92369(m2=0.671302):id3=268744(m3=1.55233) (r=0.0106876) typem=5 type1=11 type2=0 type3=1 
+t=5.76976 binary-single idm=271357(mm=1.81254) id1=61357(m1=0.911281):id2=145084(m2=0.901256) (r=0.0330558) typem=1 type1=1 type2=1 
+t=5.77259 binary-single idm=360185(mm=3.42354) id1=182876(m1=1.35864):id2=360184(m2=2.0649) (r=0.0772019) typem=6 type1=12 type2=1 
+t=5.77624 binary-binary idm=222505(mm=3.34464) id1=12503(m1=0.762885):id2=14239(m2=0.91315):id3=21704(m3=0.857639):id4=209223(m4=0.810968) (r=0.0531333) typem=1 type1=1 type2=1 type3=1 type4=1 
+t=5.77726 single-single idm=232978(mm=1.58488) id1=22978(m1=0.732373):id2=193639(m2=0.975215) (r=0.125939) typem=2 type1=0 type2=2 b[RSUN]=833.736 vinf[km/s]=1.87977
+t=5.7807 binary-binary idm=221722(mm=1.38793) id1=11722(m1=0.699329):id2=200909(m2=0.688603) (r=0.0385213) typem=1 type1=0 type2=0 
+t=5.7996 binary-binary idm=371625(mm=2.13051) id1=161624(m1=0.756104):id2=201576(m2=0.658132):id3=208924(m3=0.716273) (r=0.0258475) typem=1 type1=1 type2=0 type3=0 
+t=5.80156 binary-single idm=244362(mm=1.53514) id1=34362(m1=0.560005):id2=75472(m2=0.975135) (r=0.0542348) typem=6 type1=0 type2=11 
+t=5.80243 binary-binary idm=244037(mm=1.02441) id1=34037(m1=0.615462):id2=206873(m2=0.408944) (r=0.0318503) typem=1 type1=0 type2=0 
+t=5.8048 binary-single idm=341825(mm=1.82047) id1=131825(m1=0.783629):id2=175020(m2=1.03684) (r=0.133039) typem=6 type1=1 type2=11 
+t=5.8122 single-single idm=219989(mm=1.96278) id1=110334(m1=0.967919):id2=9989(m2=0.995718) (r=0.181378) typem=5 type1=3 type2=11 b[RSUN]=108.438 vinf[km/s]=7.09239
+t=5.81403 binary-single idm=316781(mm=2.39516) id1=128016(m1=0.931002):id2=316780(m2=1.46416) (r=0.0838781) typem=1 type1=1 type2=1 
+t=5.82313 binary-single idm=220924(mm=2.79473) id1=10923(m1=0.664221):id2=371625(m2=2.13051) (r=0.0324294) typem=1 type1=0 type2=1 
+t=5.82385 binary-binary idm=261984(mm=1.35881) id1=51984(m1=0.829795):id2=200566(m2=0.529016) (r=0.0198089) typem=1 type1=1 type2=0 
+t=5.82587 binary-single idm=304763(mm=2.29569) id1=105459(m1=1.34422):id2=94763(m2=0.951478) (r=0.0486863) typem=6 type1=12 type2=1 
+t=5.83016 binary-single idm=249355(mm=2.61835) id1=64863(m1=0.982197):id2=249354(m2=1.63616) (r=0.0173424) typem=6 type1=11 type2=1 
+t=5.83022 single-single idm=249356(mm=4.7217) id1=249355(m1=3.72461):id2=146955(m2=0.998534) (r=0.014791) typem=4 type1=5 type2=11 b[RSUN]=737.516 vinf[km/s]=4.64193
+t=5.8305 binary-single idm=282202(mm=1.39583) id1=72202(m1=0.620534):id2=142548(m2=0.973536) (r=0.0241762) typem=3 type1=0 type2=3 
+t=5.83285 binary-single idm=304802(mm=1.84608) id1=194460(m1=1.00879):id2=94802(m2=0.837296) (r=0.349246) typem=6 type1=11 type2=1 
+t=5.83839 binary-single idm=233581(mm=1.62832) id1=23581(m1=0.819774):id2=207169(m2=0.808541) (r=0.0439933) typem=1 type1=1 type2=1 
+t=5.83977 binary-single idm=273731(mm=2.37809) id1=63730(m1=0.951577):id2=313253(m2=1.42652) (r=0.0220137) typem=1 type1=1 type2=1 
+t=5.84072 binary-single idm=222506(mm=4.31619) id1=222505(m1=3.34463):id2=135040(m2=0.971561) (r=0.00519405) typem=3 type1=1 type2=3 
+t=5.84341 binary-single idm=245218(mm=3.55491) id1=245216(m1=1.17681):id2=273731(m2=2.37809) (r=0.019597) typem=6 type1=11 type2=1 
+t=5.8501 binary-binary idm=213610(mm=3.57911) id1=171713(m1=0.714745):id2=258822(m2=2.24648):id3=3609(m3=0.617877) (r=0.0472758) typem=1 type1=0 type2=1 type3=0 
+t=5.85129 binary-single idm=222433(mm=2.06507) id1=195295(m1=1.18359):id2=12433(m2=0.88148) (r=0.0181621) typem=6 type1=11 type2=1 
+t=5.85154 binary-single idm=261985(mm=2.35243) id1=54587(m1=0.993621):id2=261984(m2=1.35881) (r=0.033682) typem=6 type1=11 type2=1 
+t=5.85158 binary-single idm=228569(mm=1.90729) id1=228568(m1=1.52951):id2=209788(m2=0.377776) (r=0.0439388) typem=1 type1=1 type2=0 
+t=5.85268 binary-binary idm=222331(mm=3.3158) id1=275792(m1=2.29859):id2=12330(m2=1.01721) (r=0.0213817) typem=6 type1=1 type2=11 
+t=5.85424 binary-single idm=332119(mm=1.6861) id1=122119(m1=0.833256):id2=205510(m2=0.852849) (r=0.0379891) typem=1 type1=1 type2=1 
+t=5.85464 binary-single idm=220926(mm=4.60534) id1=231674(m1=1.81061):id2=220924(m2=2.79473) (r=0.0302443) typem=1 type1=1 type2=1 
+t=5.85828 binary-single idm=246375(mm=1.73836) id1=36375(m1=0.979446):id2=200442(m2=0.758916) (r=0.0200154) typem=6 type1=11 type2=1 
+t=5.86706 binary-binary idm=253369(mm=1.69546) id1=43369(m1=0.700356):id2=60994(m2=0.995109) (r=0.00646079) typem=6 type1=0 type2=11 
+t=5.86804 binary-single idm=217576(mm=1.87196) id1=7576(m1=0.920556):id2=61499(m2=0.951403) (r=0.0115862) typem=1 type1=1 type2=1 
+t=5.87098 binary-binary idm=213612(mm=5.71017) id1=114650(m1=0.916629):id2=213610(m2=3.97184):id3=187901(m3=0.821704) (r=0.0158668) typem=5 type1=11 type2=1 type3=1 
+t=5.87117 single-single idm=213613(mm=1.10787) id1=128593(m1=1.36919):id2=213612(m2=6.33333) (r=0.0179708) typem=13 type1=12 type2=6 b[RSUN]=2309.76 vinf[km/s]=3.8976
+t=5.87248 binary-binary idm=233676(mm=3.02313) id1=238725(m1=1.5957):id2=23674(m2=0.869717):id3=208441(m3=0.557714) (r=0.0215542) typem=1 type1=1 type2=1 type3=0 
+t=5.87748 binary-binary idm=218062(mm=2.843) id1=8061(m1=1.09577):id2=373812(m2=1.74723) (r=0.0419004) typem=6 type1=11 type2=1 
+t=5.88373 binary-single idm=217577(mm=1.26071) id1=103437(m1=1.26071):id2=217576(m2=1.87196) (r=0.0343661) typem=13 type1=13 type2=1 
+t=5.8842 binary-single idm=218064(mm=3.86679) id1=218062(m1=1.29226):id2=316781(m2=2.57453) (r=0.0273529) typem=6 type1=11 type2=1 
+t=5.88539 binary-single idm=234771(mm=1.83469) id1=24771(m1=1.01162):id2=113253(m2=0.823069) (r=0.0522846) typem=6 type1=11 type2=1 
+t=5.89103 binary-single idm=286783(mm=2.34018) id1=76783(m1=1.3672):id2=193673(m2=0.973184) (r=0.0255585) typem=5 type1=12 type2=3 
+t=5.89186 binary-single idm=299609(mm=1.95619) id1=89609(m1=0.874201):id2=112345(m2=1.08199) (r=0.0662666) typem=6 type1=1 type2=11 
+t=5.89591 binary-binary idm=243829(mm=1.04013) id1=33829(m1=0.53662):id2=209038(m2=0.503511) (r=0.0545418) typem=1 type1=0 type2=0 
+t=5.91187 binary-binary idm=233678(mm=3.93567) id1=233676(m1=3.02313):id2=282298(m2=0.91254) (r=0.0136567) typem=6 type1=1 type2=11 
+t=5.91491 binary-single idm=218013(mm=1.56967) id1=113498(m1=0.685015):id2=8013(m2=0.88465) (r=0.0288372) typem=6 type1=0 type2=11 
+t=5.92539 binary-binary idm=331714(mm=1.957) id1=121714(m1=0.998027):id2=172238(m2=0.95897) (r=0.0491101) typem=6 type1=11 type2=1 
+t=5.92539 binary-binary idm=306767(mm=1.70038) id1=203700(m1=0.618949):id2=306766(m2=1.08143) (r=0.0491101) typem=1 type1=0 type2=1 
+t=5.92701 binary-single idm=271358(mm=2.99726) id1=148301(m1=1.18472):id2=271357(m2=1.81254) (r=0.0455864) typem=6 type1=11 type2=1 
+t=5.95317 single-single idm=259261(mm=1.21894) id1=49261(m1=0.713092):id2=138844(m2=0.859955) (r=0.122371) typem=4 type1=0 type2=4 b[RSUN]=61.7634 vinf[km/s]=5.99573
+t=5.95541 binary-single idm=306769(mm=2.6984) id1=331714(m1=0.998027):id2=306767(m2=1.70038) (r=0.0128636) typem=6 type1=11 type2=1 
+t=5.9557 binary-single idm=288166(mm=1.51471) id1=78166(m1=0.840428):id2=203468(m2=0.674283) (r=0.0298783) typem=1 type1=1 type2=0 
+t=5.95955 binary-single idm=401890(mm=0.891989) id1=191890(m1=0.481103):id2=208491(m2=0.410887) (r=0.0399929) typem=1 type1=0 type2=0 
+t=5.96656 binary-binary idm=253130(mm=1.20845) id1=43130(m1=0.813227):id2=205084(m2=0.39522) (r=0.0562198) typem=1 type1=1 type2=0 
+t=5.97573 binary-single idm=359659(mm=1.12703) id1=149659(m1=0.604665):id2=204872(m2=0.522365) (r=0.108645) typem=6 type1=11 type2=0 
+t=5.98927 binary-binary idm=244038(mm=2.04837) id1=145742(m1=1.02396):id2=244037(m2=1.02441) (r=0.0165491) typem=6 type1=11 type2=1 
+t=5.99944 single-single idm=215871(mm=1.52991) id1=5871(m1=0.604341):id2=47262(m2=0.925568) (r=0.147077) typem=6 type1=11 type2=1 b[RSUN]=66.7084 vinf[km/s]=12.4829
+t=5.99977 binary-single idm=314822(mm=1.46895) id1=104822(m1=0.818758):id2=157360(m2=0.650195) (r=0.0190571) typem=6 type1=11 type2=0 
+t=6.00125 binary-single idm=298815(mm=1.85578) id1=88815(m1=1.00254):id2=104419(m2=0.853241) (r=0.0182314) typem=6 type1=11 type2=1 
+t=6.01778 binary-binary idm=252094(mm=1.84948) id1=42094(m1=1.29694):id2=175885(m2=0.552536) (r=0.0367497) typem=6 type1=12 type2=0 
+t=6.01917 binary-single idm=290702(mm=2.13628) id1=80702(m1=0.881831):id2=140897(m2=1.25445) (r=0.0138158) typem=6 type1=1 type2=12 
+t=6.02184 single-single idm=222387(mm=1.48551) id1=161149(m1=0.912714):id2=12387(m2=0.967244) (r=0.0541247) typem=3 type1=1 type2=3 b[RSUN]=190.079 vinf[km/s]=8.84499
+t=6.02197 binary-binary idm=282175(mm=1.84198) id1=99158(m1=1.01231):id2=282174(m2=0.829669) (r=0.0484216) typem=6 type1=11 type2=1 
+t=6.023 binary-single idm=318696(mm=1.87197) id1=108696(m1=0.990834):id2=205798(m2=0.881134) (r=0.0215237) typem=6 type1=11 type2=1 
+t=6.02638 binary-binary idm=384732(mm=1.29639) id1=174732(m1=0.713611):id2=209944(m2=0.582777) (r=0.0311044) typem=1 type1=0 type2=0 
+t=6.02941 single-single idm=212485(mm=2.15223) id1=2485(m1=1.32644):id2=135997(m2=0.825795) (r=0.0476303) typem=6 type1=12 type2=1 b[RSUN]=147.453 vinf[km/s]=4.80219
+t=6.0338 binary-single idm=378058(mm=1.9512) id1=168058(m1=1.24579):id2=180954(m2=0.962136) (r=0.0457616) typem=5 type1=12 type2=2 
+t=6.03398 binary-single idm=298133(mm=1.16385) id1=88133(m1=0.754955):id2=204733(m2=0.408898) (r=0.00783162) typem=1 type1=0 type2=0 
+t=6.03452 binary-single idm=272724(mm=1.6131) id1=62724(m1=0.602501):id2=148567(m2=1.0106) (r=0.0666496) typem=6 type1=0 type2=11 
+t=6.03552 single-single idm=283321(mm=1.86408) id1=73321(m1=0.929271):id2=125764(m2=0.934807) (r=0.0194349) typem=1 type1=1 type2=1 b[RSUN]=194.728 vinf[km/s]=6.33005
+t=6.04214 binary-binary idm=357928(mm=1.57912) id1=147928(m1=0.866085):id2=208479(m2=0.713033) (r=0.0473764) typem=1 type1=1 type2=0 
+t=6.04644 binary-single idm=292452(mm=1.47613) id1=86097(m1=0.721217):id2=82452(m2=0.754916) (r=0.0233614) typem=1 type1=0 type2=0 
+t=6.05695 binary-single idm=271359(mm=2.95521) id1=64297(m1=1.77049):id2=271358(m2=1.18472) (r=0.0224996) typem=6 type1=1 type2=12 
+t=6.05832 binary-single idm=346231(mm=1.46282) id1=136231(m1=0.750653):id2=204275(m2=0.712169) (r=0.0104772) typem=1 type1=0 type2=0 
+t=6.06492 binary-single idm=293412(mm=1.81416) id1=83412(m1=0.88811):id2=153185(m2=0.926799) (r=0.0273778) typem=5 type1=11 type2=3 
+t=6.0658 binary-single idm=323163(mm=1.97007) id1=170381(m1=1.0184):id2=113163(m2=0.951669) (r=0.0766812) typem=6 type1=11 type2=1 
+t=6.06967 single-single idm=255227(mm=1.86065) id1=142260(m1=1.06369):id2=45227(m2=0.796954) (r=0.0402826) typem=6 type1=11 type2=1 b[RSUN]=101.393 vinf[km/s]=6.65259
+t=6.1102 binary-single idm=333891(mm=1.81339) id1=123891(m1=0.994635):id2=160760(m2=0.818756) (r=0.0338592) typem=6 type1=11 type2=1 
+t=6.11261 binary-single idm=401003(mm=1.83081) id1=191003(m1=1.01648):id2=209850(m2=0.814338) (r=0.0528545) typem=6 type1=11 type2=1 
+t=6.11889 binary-binary idm=389248(mm=1.62897) id1=179248(m1=1.01738):id2=204912(m2=0.611593) (r=0.036227) typem=6 type1=11 type2=0 
+t=6.12184 binary-single idm=294011(mm=3.06485) id1=294009(m1=1.37874):id2=332119(m2=1.6861) (r=0.007875) typem=6 type1=12 type2=1 
+t=6.12394 binary-binary idm=341535(mm=1.68938) id1=131535(m1=0.893586):id2=208957(m2=0.795789) (r=0.0624428) typem=1 type1=1 type2=1 
+t=6.127 binary-single idm=218297(mm=0.76409) id1=8297(m1=0.44427):id2=205756(m2=0.319821) (r=0.296378) typem=1 type1=0 type2=0 
+t=6.1374 binary-binary idm=273718(mm=1.37459) id1=63718(m1=0.694833):id2=202862(m2=0.679756) (r=0.0146987) typem=1 type1=0 type2=0 
+t=6.13753 binary-binary idm=210390(mm=3.26744) id1=87766(m1=0.94702):id2=258190(m2=1.3268):id3=389(m3=0.993728) (r=0.0347512) typem=4 type1=1 type2=12 type3=11 
+t=6.14155 binary-single idm=262025(mm=1.92685) id1=52024(m1=0.910374):id2=401003(m2=1.01648) (r=0.016453) typem=6 type1=1 type2=11 
+t=6.1451 binary-binary idm=410451(mm=0.880968) id1=200451(m1=0.53078):id2=205546(m2=0.350188) (r=0.0209327) typem=1 type1=0 type2=0 
+t=6.15254 binary-binary idm=323870(mm=1.53458) id1=113870(m1=0.834857):id2=204692(m2=0.699719) (r=0.027363) typem=1 type1=1 type2=0 
+t=6.15454 single-single idm=263064(mm=2.21558) id1=53064(m1=0.879248):id2=112899(m2=1.33633) (r=0.0975764) typem=6 type1=1 type2=12 b[RSUN]=146.657 vinf[km/s]=5.01158
+t=6.16413 binary-single idm=231566(mm=1.87927) id1=21566(m1=1.36861):id2=202775(m2=0.51066) (r=0.0193816) typem=6 type1=12 type2=0 
+t=6.17915 binary-single idm=298743(mm=1.20686) id1=88743(m1=0.773245):id2=208648(m2=0.433611) (r=0.024072) typem=1 type1=1 type2=0 
+t=6.18047 binary-binary idm=237666(mm=1.49646) id1=27666(m1=0.889785):id2=202345(m2=0.606678) (r=0.0168994) typem=1 type1=1 type2=0 
+t=6.18245 binary-binary idm=401509(mm=1.14587) id1=191509(m1=0.621429):id2=202572(m2=0.524444) (r=0.00727085) typem=1 type1=0 type2=0 
+t=6.18245 binary-binary idm=262989(mm=2.87755) id1=262988(m1=1.54589):id2=74974(m2=1.33166) (r=0.00727085) typem=6 type1=1 type2=12 
+t=6.18268 binary-binary idm=351984(mm=1.39812) id1=181767(m1=0.93147):id2=141984(m2=0.466654) (r=0.0375269) typem=1 type1=1 type2=0 
+t=6.19902 binary-single idm=214044(mm=1.43502) id1=4044(m1=0.843894):id2=205601(m2=0.591121) (r=0.0426913) typem=1 type1=1 type2=0 
+t=6.20553 binary-single idm=284306(mm=1.22895) id1=74306(m1=0.941778):id2=208866(m2=0.287168) (r=0.0430177) typem=1 type1=1 type2=0 
+t=6.20618 binary-single idm=236225(mm=2.87521) id1=26224(m1=1.35682):id2=274644(m2=1.51839) (r=0.0239305) typem=6 type1=12 type2=1 
+t=6.22941 single-single idm=286477(mm=2.32129) id1=76477(m1=1.37326):id2=181499(m2=0.948025) (r=0.0900788) typem=6 type1=12 type2=1 b[RSUN]=92.0842 vinf[km/s]=2.71892
+t=6.23858 single-single idm=289913(mm=2.16472) id1=153509(m1=1.27015):id2=79913(m2=0.894575) (r=0.0773408) typem=6 type1=12 type2=1 b[RSUN]=31.4617 vinf[km/s]=10.0333
+t=6.24072 binary-single idm=257034(mm=1.47626) id1=47034(m1=0.592221):id2=111501(m2=0.884043) (r=0.0507832) typem=1 type1=0 type2=1 
+t=6.24291 binary-single idm=330330(mm=1.18251) id1=120330(m1=0.682914):id2=203752(m2=0.499596) (r=0.139907) typem=1 type1=0 type2=0 
+t=6.25936 binary-single idm=219235(mm=1.35137) id1=9235(m1=0.797167):id2=204583(m2=0.554204) (r=0.154144) typem=1 type1=1 type2=0 
+t=6.26243 single-single idm=257035(mm=2.35628) id1=169022(m1=0.880019):id2=257034(m2=1.47626) (r=0.0422061) typem=1 type1=1 type2=1 b[RSUN]=172.341 vinf[km/s]=6.36248
+t=6.27137 binary-single idm=269929(mm=1.74501) id1=59929(m1=0.926696):id2=99931(m2=0.818311) (r=0.0718774) typem=1 type1=1 type2=1 
+t=6.27892 binary-single idm=358091(mm=1.3396) id1=148091(m1=0.732968):id2=208077(m2=0.606635) (r=0.144201) typem=1 type1=0 type2=0 
+t=6.2952 binary-binary idm=269694(mm=1.11043) id1=59694(m1=0.801361):id2=202077(m2=0.309065) (r=0.0554871) typem=1 type1=1 type2=0 
+t=6.30038 binary-binary idm=246496(mm=1.30763) id1=36496(m1=0.73323):id2=209159(m2=0.574397) (r=0.0451569) typem=1 type1=0 type2=0 
+t=6.30433 single-single idm=364819(mm=1.77281) id1=177921(m1=1.02029):id2=154819(m2=0.752517) (r=0.110088) typem=6 type1=11 type2=0 b[RSUN]=1249.54 vinf[km/s]=0.422187
+t=6.30656 binary-binary idm=241391(mm=1.242) id1=31388(m1=1.30573):id2=252094(m2=1.29694):id3=373954(m3=1.46534) (r=0.0314503) typem=13 type1=12 type2=12 type3=1 
+t=6.32095 binary-single idm=330448(mm=1.66064) id1=120448(m1=0.889793):id2=196528(m2=0.770846) (r=0.0466878) typem=1 type1=1 type2=1 
+t=6.32794 binary-single idm=228725(mm=1.6795) id1=52043(m1=0.807406):id2=228724(m2=0.872096) (r=0.0347241) typem=6 type1=1 type2=11 
+t=6.33227 binary-single idm=297353(mm=1.6346) id1=87353(m1=1.00221):id2=152648(m2=0.632397) (r=0.0604291) typem=6 type1=11 type2=0 
+t=6.33491 binary-single idm=222201(mm=1.63457) id1=12201(m1=0.999034):id2=209668(m2=0.635539) (r=0.0375745) typem=6 type1=11 type2=0 
+t=6.33711 binary-binary idm=262045(mm=1.26071) id1=173778(m1=0.640616):id2=205771(m2=1.04845):id3=410451(m3=0.880968):id4=52044(m4=1.26071) (r=0.0405924) typem=13 type1=0 type2=11 type3=1 type4=13 
+t=6.34036 binary-binary idm=211024(mm=1.5648) id1=202372(m1=0.85499):id2=211023(m2=0.709812) (r=0.0211554) typem=6 type1=1 type2=11 
+t=6.34514 single-single idm=213276(mm=1.16851) id1=144435(m1=0.305437):id2=3276(m2=0.950118) (r=0.253075) typem=2 type1=0 type2=2 b[RSUN]=131.573 vinf[km/s]=7.8687
+t=6.35433 binary-binary idm=265064(mm=1.10787) id1=55063(m1=0.988854):id2=193635(m2=0.943782):id3=169474(m3=1.02996) (r=0.0200013) typem=13 type1=11 type2=1 type3=11 
+t=6.36271 binary-single idm=330243(mm=1.5339) id1=120243(m1=0.611755):id2=135305(m2=0.922143) (r=0.0578724) typem=6 type1=11 type2=1 
+t=6.36759 binary-single idm=346683(mm=1.33489) id1=136683(m1=0.685547):id2=203755(m2=0.649339) (r=0.00593225) typem=1 type1=0 type2=0 
+t=6.37455 binary-single idm=233582(mm=2.34486) id1=147596(m1=0.716542):id2=233581(m2=1.62832) (r=0.0238452) typem=1 type1=0 type2=1 
+t=6.37493 single-single idm=249203(mm=3.12072) id1=163299(m1=1.37492):id2=249202(m2=1.74615) (r=0.0411671) typem=4 type1=12 type2=4 b[RSUN]=543.265 vinf[km/s]=5.25746
+t=6.37749 binary-single idm=283322(mm=3.12065) id1=75203(m1=1.25658):id2=283321(m2=1.86408) (r=0.0315277) typem=6 type1=12 type2=1 
+t=6.37939 binary-single idm=233583(mm=3.19351) id1=233582(m1=2.34486):id2=173231(m2=0.848654) (r=0.0117331) typem=6 type1=1 type2=11 
+t=6.38066 binary-binary idm=309545(mm=1.96752) id1=164741(m1=0.850924):id2=99545(m2=1.1166) (r=0.0226266) typem=6 type1=1 type2=11 
+t=6.39216 binary-single idm=243400(mm=1.35557) id1=33400(m1=0.84387):id2=202494(m2=0.511696) (r=0.0252712) typem=1 type1=1 type2=0 
+t=6.40202 binary-single idm=346788(mm=1.1989) id1=136788(m1=0.764152):id2=200869(m2=0.434751) (r=0.0203046) typem=1 type1=1 type2=0 
+t=6.40752 binary-binary idm=222991(mm=1.2607) id1=12991(m1=0.697957):id2=209356(m2=0.562739) (r=0.0254954) typem=1 type1=0 type2=0 
+t=6.41247 binary-binary idm=355887(mm=1.04671) id1=145887(m1=0.602547):id2=206399(m2=0.444163) (r=0.0237292) typem=1 type1=0 type2=0 
+t=6.41452 binary-single idm=238935(mm=1.0976) id1=28935(m1=0.242088):id2=46184(m2=0.855514) (r=0.0456414) typem=1 type1=0 type2=1 
+t=6.41734 binary-single idm=276338(mm=1.242) id1=66338(m1=1.242):id2=205160(m2=0.649228) (r=0.0147379) typem=13 type1=13 type2=0 
+t=6.41766 binary-binary idm=337755(mm=1.41485) id1=127755(m1=0.745687):id2=201290(m2=0.669159) (r=0.0150492) typem=1 type1=0 type2=0 
+t=6.4188 binary-single idm=238936(mm=1.56441) id1=238935(m1=1.0976):id2=200252(m2=0.466804) (r=0.0508374) typem=1 type1=1 type2=0 
+t=6.42178 binary-single idm=255161(mm=1.15463) id1=45161(m1=0.669007):id2=200088(m2=0.485628) (r=0.069974) typem=1 type1=0 type2=0 
+t=6.42198 binary-binary idm=404950(mm=1.27479) id1=194950(m1=0.65126):id2=205130(m2=0.623534) (r=0.0238961) typem=1 type1=0 type2=0 
+t=6.4222 single-single idm=264252(mm=2.06865) id1=101681(m1=0.949731):id2=54252(m2=1.11915) (r=0.248749) typem=5 type1=3 type2=11 b[RSUN]=213.26 vinf[km/s]=8.26526
+t=6.42223 binary-single idm=290838(mm=2.52972) id1=80837(m1=1.01141):id2=392139(m2=1.51831) (r=0.0192288) typem=6 type1=11 type2=1 
+t=6.42286 binary-single idm=357324(mm=1.23721) id1=147324(m1=0.910516):id2=205558(m2=0.32669) (r=0.101526) typem=1 type1=1 type2=0 
+t=6.4263 binary-single idm=223368(mm=1.96532) id1=13368(m1=1.02015):id2=146566(m2=0.945166) (r=0.0344446) typem=6 type1=11 type2=1 
+t=6.4264 binary-single idm=255563(mm=1.98601) id1=45563(m1=1.14677):id2=66145(m2=0.839237) (r=0.0255118) typem=6 type1=11 type2=1 
+t=6.44191 binary-single idm=248666(mm=1.64677) id1=75311(m1=0.991328):id2=38666(m2=0.655446) (r=0.00345801) typem=6 type1=11 type2=0 
+t=6.44506 binary-single idm=235921(mm=3.29052) id1=25920(m1=0.93424):id2=257035(m2=2.35628) (r=0.0179464) typem=1 type1=1 type2=1 
+t=6.45004 binary-binary idm=247053(mm=1.965) id1=37053(m1=1.01974):id2=108227(m2=0.945266) (r=0.0543341) typem=5 type1=11 type2=2 
+t=6.45437 binary-binary idm=234805(mm=1.46037) id1=24805(m1=0.923314):id2=207339(m2=0.537059) (r=0.029231) typem=1 type1=1 type2=0 
+t=6.45697 single-single idm=291030(mm=1.7854) id1=179937(m1=0.94029):id2=81030(m2=0.845111) (r=0.100815) typem=6 type1=1 type2=11 b[RSUN]=168.698 vinf[km/s]=4.48119
+t=6.45776 binary-binary idm=252448(mm=1.57452) id1=42448(m1=1.02058):id2=206702(m2=0.553941) (r=0.066588) typem=6 type1=11 type2=0 
+t=6.46837 binary-single idm=216236(mm=1.33102) id1=6236(m1=0.932628):id2=206536(m2=0.398392) (r=0.0219106) typem=1 type1=1 type2=0 
+t=6.47895 binary-single idm=297354(mm=1.93661) id1=183337(m1=0.934407):id2=297353(m2=1.00221) (r=0.0229586) typem=6 type1=1 type2=11 
+t=6.49191 binary-single idm=265771(mm=2.00577) id1=92784(m1=1.37873):id2=55771(m2=0.627041) (r=0.0260204) typem=6 type1=12 type2=0 
+t=6.50203 binary-single idm=234553(mm=1.84164) id1=24553(m1=0.925464):id2=176586(m2=0.916176) (r=0.0335086) typem=1 type1=1 type2=1 
+t=6.51409 binary-single idm=361875(mm=1.82528) id1=151875(m1=0.95686):id2=209134(m2=0.868419) (r=0.0675206) typem=6 type1=11 type2=1 
+t=6.52228 binary-single idm=283323(mm=2.17649) id1=101139(m1=0.919911):id2=283322(m2=1.25658) (r=0.0312292) typem=6 type1=1 type2=12 
+t=6.52392 single-single idm=253055(mm=1.8156) id1=141386(m1=0.9084):id2=43055(m2=0.907205) (r=1.13496) typem=1 type1=1 type2=1 b[RSUN]=110.992 vinf[km/s]=3.84318
+t=6.53538 single-single idm=258740(mm=1.49953) id1=48740(m1=0.866652):id2=137235(m2=0.632875) (r=0.13001) typem=6 type1=1 type2=11 b[RSUN]=26.308 vinf[km/s]=15.7457
+t=6.53632 binary-single idm=225005(mm=1.40257) id1=15005(m1=0.928215):id2=206153(m2=0.474355) (r=0.114858) typem=1 type1=1 type2=0 
+t=6.54009 binary-single idm=211026(mm=2.04941) id1=358091(m1=1.3396):id2=211024(m2=0.709812) (r=0.0795743) typem=6 type1=1 type2=11 
+t=6.56166 single-single idm=237646(mm=1.75579) id1=27646(m1=0.892772):id2=185592(m2=0.863022) (r=0.101366) typem=6 type1=1 type2=11 b[RSUN]=23.8318 vinf[km/s]=10.1678
+t=6.57293 binary-single idm=375065(mm=1.64168) id1=171468(m1=0.9844):id2=165065(m2=0.657283) (r=0.025375) typem=6 type1=11 type2=0 
+t=6.57943 binary-binary idm=297656(mm=2.06248) id1=87656(m1=1.34458):id2=204681(m2=0.717901) (r=0.0590653) typem=6 type1=12 type2=0 
+t=6.57999 binary-binary idm=256667(mm=0.965296) id1=46667(m1=0.363382):id2=207236(m2=0.601914) (r=0.0614518) typem=3 type1=10 type2=0 
+t=6.59679 binary-single idm=312093(mm=1.42342) id1=102093(m1=0.79278):id2=204933(m2=0.630643) (r=0.0282661) typem=1 type1=1 type2=0 
+t=6.59689 binary-single idm=312094(mm=2.26652) id1=149292(m1=0.843095):id2=312093(m2=1.42342) (r=0.0298941) typem=1 type1=1 type2=1 
+t=6.61435 binary-binary idm=369792(mm=1.17208) id1=159792(m1=0.840693):id2=202980(m2=0.331386) (r=0.0483357) typem=1 type1=1 type2=0 
+t=6.61739 binary-binary idm=302089(mm=1.89877) id1=150130(m1=0.68928):id2=92088(m2=0.904171):id3=204585(m3=0.305322) (r=0.0439948) typem=1 type1=0 type2=1 type3=0 
+t=6.61831 binary-single idm=312095(mm=3.27824) id1=199587(m1=1.01172):id2=312094(m2=2.26652) (r=0.0627638) typem=6 type1=11 type2=1 
+t=6.63321 binary-single idm=222992(mm=2.25723) id1=122370(m1=0.996534):id2=222991(m2=1.2607) (r=0.0321214) typem=6 type1=11 type2=1 
+t=6.64624 binary-binary idm=330358(mm=1.57457) id1=120358(m1=0.815186):id2=139884(m2=0.759387) (r=0.0661504) typem=1 type1=1 type2=1 
+t=6.65447 binary-binary idm=234806(mm=2.55557) id1=163289(m1=1.09519):id2=234805(m2=1.46037) (r=0.0283398) typem=6 type1=11 type2=1 
+t=6.66727 binary-binary idm=237668(mm=2.64324) id1=237666(m1=1.49646):id2=255563(m2=1.14677) (r=0.0213275) typem=6 type1=1 type2=11 
+t=6.73888 binary-single idm=221548(mm=1.327) id1=11548(m1=0.954352):id2=200761(m2=0.372644) (r=0.130613) typem=6 type1=11 type2=0 
+t=6.73924 binary-single idm=248525(mm=1.80088) id1=69638(m1=0.894767):id2=38525(m2=0.906113) (r=0.0301788) typem=1 type1=1 type2=1 
+t=6.73986 binary-single idm=242167(mm=1.4808) id1=32167(m1=1.02184):id2=208038(m2=0.458952) (r=0.0357928) typem=6 type1=11 type2=0 
+t=6.74178 binary-single idm=342269(mm=1.21596) id1=132269(m1=0.885963):id2=208423(m2=0.329994) (r=0.0643975) typem=1 type1=1 type2=0 
+t=6.79175 binary-binary idm=250878(mm=1.06115) id1=40878(m1=0.908911):id2=209034(m2=0.152243) (r=0.0210919) typem=6 type1=11 type2=0 
+t=6.7964 binary-single idm=307140(mm=1.70928) id1=97140(m1=1.03579):id2=142867(m2=0.673489) (r=0.0381494) typem=6 type1=11 type2=0 
+t=6.83574 binary-single idm=248526(mm=2.33897) id1=103413(m1=0.538095):id2=248525(m2=1.80088) (r=0.0388691) typem=1 type1=0 type2=1 
+t=6.87354 single-single idm=306770(mm=1.92375) id1=130300(m1=0.921988):id2=306769(m2=1.00201) (r=0.186853) typem=5 type1=3 type2=11 b[RSUN]=2055.56 vinf[km/s]=1.41802
+t=6.87811 binary-single idm=240178(mm=1.57522) id1=30178(m1=0.915874):id2=201891(m2=0.65935) (r=0.0430246) typem=1 type1=1 type2=0 
+t=6.886 binary-binary idm=247580(mm=1.16303) id1=37580(m1=0.607857):id2=200153(m2=0.555168) (r=0.0312955) typem=1 type1=0 type2=0 
+t=6.9132 binary-binary idm=395381(mm=1.21198) id1=185381(m1=0.568435):id2=194522(m2=0.64355) (r=0.0590219) typem=1 type1=0 type2=0 
+t=6.91572 binary-single idm=305721(mm=1.69112) id1=95721(m1=0.782676):id2=174723(m2=0.908447) (r=0.0917679) typem=6 type1=1 type2=11 
+t=6.92345 binary-single idm=369854(mm=1.79367) id1=159854(m1=0.809111):id2=169058(m2=0.984554) (r=0.037586) typem=6 type1=1 type2=11 
+t=6.92934 binary-single idm=227571(mm=2.15224) id1=17571(m1=1.23628):id2=171224(m2=0.915957) (r=0.118923) typem=6 type1=12 type2=1 
+t=6.93319 binary-single idm=226930(mm=1.57803) id1=16930(m1=0.731908):id2=64471(m2=0.846123) (r=0.0289949) typem=6 type1=11 type2=1 
+t=6.93571 binary-single idm=328086(mm=2.5521) id1=118085(m1=1.31489):id2=357324(m2=1.23721) (r=0.0374603) typem=6 type1=12 type2=1 
+t=6.9726 single-single idm=319996(mm=1.95827) id1=150239(m1=0.913003):id2=109996(m2=1.04526) (r=0.169304) typem=6 type1=1 type2=11 b[RSUN]=156.104 vinf[km/s]=6.55151
+t=6.9731 binary-binary idm=302168(mm=1.94152) id1=151153(m1=1.0195):id2=92168(m2=0.922019) (r=0.0439091) typem=5 type1=11 type2=3 
+t=6.97982 binary-binary idm=293024(mm=2.15189) id1=83023(m1=0.836992):id2=328086(m2=1.31489) (r=0.0175252) typem=6 type1=1 type2=12 
+t=6.98636 binary-single idm=248527(mm=2.97487) id1=193985(m1=0.635893):id2=248526(m2=2.33897) (r=0.0342769) typem=1 type1=0 type2=1 
+t=6.98969 binary-binary idm=248528(mm=4.27066) id1=248527(m1=2.97487):id2=72968(m2=1.29579) (r=0.0247691) typem=6 type1=1 type2=12 
+t=6.99224 binary-binary idm=333484(mm=0.913027) id1=123484(m1=0.541943):id2=205456(m2=0.371084) (r=0.0431) typem=1 type1=0 type2=0 
+t=6.99784 binary-binary idm=306014(mm=1.69448) id1=96014(m1=0.625801):id2=138215(m2=1.06868) (r=0.0204572) typem=6 type1=0 type2=11 
+t=7.01456 binary-single idm=268448(mm=2.25365) id1=268447(m1=1.3266):id2=129459(m2=0.927057) (r=0.0263821) typem=5 type1=11 type2=3 
+t=7.01469 binary-single idm=364162(mm=1.38368) id1=154162(m1=0.617432):id2=209642(m2=0.766243) (r=0.0802304) typem=6 type1=11 type2=1 
+t=7.03015 binary-single idm=393775(mm=1.34385) id1=183775(m1=1.01696):id2=208203(m2=0.326885) (r=0.0232302) typem=6 type1=11 type2=0 
+t=7.05858 binary-binary idm=248529(mm=1.91722) id1=99315(m1=0.621423):id2=248528(m2=1.29579) (r=0.0236028) typem=6 type1=0 type2=12 
+t=7.06796 binary-single idm=242038(mm=1.45535) id1=38920(m1=0.887972):id2=32038(m2=0.567374) (r=0.183964) typem=6 type1=11 type2=0 
+t=7.08754 binary-binary idm=221549(mm=1.82675) id1=57324(m1=0.84851):id2=221548(m2=0.978242) (r=0.023201) typem=6 type1=1 type2=11 
+t=7.08948 single-single idm=268437(mm=1.64592) id1=133185(m1=0.886161):id2=58437(m2=0.75976) (r=0.0259456) typem=1 type1=1 type2=1 b[RSUN]=103.244 vinf[km/s]=9.59427
+t=7.09353 binary-single idm=245938(mm=1.14944) id1=35938(m1=0.358741):id2=201330(m2=0.790697) (r=0.0422764) typem=3 type1=10 type2=1 
+t=7.11116 binary-single idm=332160(mm=1.10787) id1=122160(m1=0.923532):id2=176553(m2=1.10787) (r=0.00697863) typem=13 type1=3 type2=13 
+t=7.12943 binary-binary idm=368216(mm=2.20682) id1=158215(m1=0.715585):id2=201983(m2=0.495245):id3=179892(m3=0.995989) (r=0.0400622) typem=6 type1=0 type2=0 type3=11 
+t=7.14035 binary-binary idm=242374(mm=1.45957) id1=32374(m1=0.795867):id2=208195(m2=0.663704) (r=0.0756637) typem=1 type1=1 type2=0 
+t=7.14035 binary-binary idm=393691(mm=1.28985) id1=183691(m1=0.800898):id2=208241(m2=0.488949) (r=0.0756637) typem=1 type1=1 type2=0 
+t=7.14396 binary-single idm=242376(mm=2.74942) id1=242374(m1=1.45957):id2=393691(m2=1.28985) (r=0.0564925) typem=1 type1=1 type2=1 
+t=7.14401 binary-single idm=249315(mm=1.242) id1=39315(m1=0.995415):id2=102760(m2=1.3715) (r=0.0205467) typem=13 type1=11 type2=12 
+t=7.14736 binary-single idm=242377(mm=3.76967) id1=91175(m1=1.02025):id2=242376(m2=2.74942) (r=0.0274965) typem=6 type1=11 type2=1 
+t=7.16565 binary-single idm=231269(mm=2.13465) id1=369792(m1=1.17208):id2=21267(m2=0.596949):id3=209245(m3=0.365626) (r=0.0496855) typem=1 type1=1 type2=0 type3=0 
+t=7.17089 binary-binary idm=316277(mm=1.12273) id1=106277(m1=0.28678):id2=208604(m2=0.835948) (r=0.0169626) typem=3 type1=10 type2=1 
+t=7.17914 binary-single idm=262544(mm=1.43334) id1=52543(m1=0.584378):id2=122028(m2=0.501276):id3=207867(m3=0.347684) (r=0.0184361) typem=1 type1=0 type2=0 type3=0 
+t=7.18905 binary-single idm=285948(mm=1.82064) id1=150564(m1=0.920791):id2=75948(m2=0.899994) (r=0.0115349) typem=5 type1=3 type2=11 
+t=7.20015 binary-single idm=268700(mm=1.77151) id1=189615(m1=0.95211):id2=58700(m2=0.819403) (r=0.0343502) typem=6 type1=11 type2=1 
+t=7.20061 binary-single idm=235265(mm=2.09732) id1=25265(m1=0.798808):id2=147112(m2=1.29867) (r=0.0492666) typem=4 type1=4 type2=12 
+t=7.21069 single-single idm=327444(mm=1.79535) id1=117444(m1=0.912278):id2=188025(m2=0.883077) (r=0.776969) typem=6 type1=1 type2=11 b[RSUN]=130.049 vinf[km/s]=7.27365
+t=7.21994 binary-single idm=259647(mm=1.8161) id1=49647(m1=0.993928):id2=201015(m2=0.82217) (r=0.111915) typem=6 type1=11 type2=1 
+t=7.23845 single-single idm=249926(mm=1.79922) id1=39926(m1=0.915514):id2=96281(m2=0.883709) (r=0.0612994) typem=6 type1=11 type2=1 b[RSUN]=93.3727 vinf[km/s]=6.6829
+t=7.27557 binary-binary idm=323645(mm=0.85819) id1=113644(m1=0.275843):id2=204472(m2=0.224694):id3=207355(m3=0.357653) (r=0.0715286) typem=1 type1=0 type2=0 type3=0 
+t=7.31064 binary-single idm=290502(mm=1.54346) id1=138676(m1=0.839441):id2=80502(m2=0.704018) (r=0.0533021) typem=1 type1=1 type2=0 
+t=7.31161 binary-binary idm=323646(mm=1.5023) id1=323645(m1=0.85819):id2=178815(m2=0.644112) (r=0.0193647) typem=1 type1=1 type2=0 
+t=7.3449 single-single idm=348003(mm=1.53009) id1=138003(m1=0.914717):id2=143943(m2=0.615513) (r=0.0114788) typem=5 type1=3 type2=11 b[RSUN]=368.196 vinf[km/s]=3.12472
+t=7.3551 single-single idm=256775(mm=1.242) id1=46775(m1=0.770809):id2=148098(m2=1.00837) (r=0.126165) typem=13 type1=11 type2=11 b[RSUN]=15.1173 vinf[km/s]=7.05763
+t=7.35642 binary-single idm=321303(mm=1.1226) id1=111303(m1=0.596822):id2=209588(m2=0.525781) (r=0.010673) typem=1 type1=0 type2=0 
+t=7.36016 binary-binary idm=212041(mm=1.31933) id1=364162(m1=0.617432):id2=2039(m2=0.568661):id3=206950(m3=0.133805) (r=0.0361523) typem=6 type1=11 type2=0 type3=0 
+t=7.3619 binary-single idm=405133(mm=1.34343) id1=195133(m1=0.712888):id2=206821(m2=0.630538) (r=0.0363673) typem=1 type1=0 type2=0 
+t=7.3622 binary-single idm=333951(mm=1.92096) id1=164390(m1=1.26217):id2=123951(m2=0.658787) (r=0.0228432) typem=6 type1=12 type2=0 
+t=7.36233 binary-single idm=368498(mm=0.920558) id1=158498(m1=0.657713):id2=207656(m2=0.262844) (r=0.0162065) typem=1 type1=0 type2=0 
+t=7.36257 binary-single idm=238049(mm=1.242) id1=28048(m1=0.84329):id2=249315(m2=1.242) (r=0.045017) typem=13 type1=1 type2=13 
+t=7.36314 binary-binary idm=219093(mm=1.2916) id1=9093(m1=0.668478):id2=202715(m2=0.623118) (r=0.01315) typem=1 type1=0 type2=0 
+t=7.37006 binary-single idm=308651(mm=1.97672) id1=98650(m1=0.854115):id2=321303(m2=1.1226) (r=0.0137561) typem=6 type1=11 type2=1 
+t=7.37314 single-single idm=268439(mm=2.96995) id1=268437(m1=1.64592):id2=268858(m2=1.32403) (r=0.0159566) typem=1 type1=1 type2=1 b[RSUN]=831.495 vinf[km/s]=1.5313
+t=7.37893 binary-single idm=213309(mm=0.703184) id1=3309(m1=0.541621):id2=203253(m2=0.161563) (r=0.0984571) typem=0 type1=0 type2=0 
+t=7.3833 binary-single idm=380375(mm=2.10506) id1=170375(m1=0.877941):id2=190647(m2=1.22712) (r=0.0182587) typem=6 type1=1 type2=12 
+t=7.41517 binary-single idm=355246(mm=2.48275) id1=145245(m1=1.27077):id2=395381(m2=1.21198) (r=0.0652104) typem=6 type1=12 type2=1 
+t=7.46128 single-single idm=267002(mm=2.07877) id1=57002(m1=1.1716):id2=61875(m2=0.907164) (r=0.0310792) typem=6 type1=11 type2=1 b[RSUN]=347.857 vinf[km/s]=2.77352
+t=7.46743 binary-single idm=310938(mm=1.67795) id1=100938(m1=0.981799):id2=191587(m2=0.696155) (r=0.0547605) typem=6 type1=11 type2=0 
+t=7.52523 binary-binary idm=241298(mm=0.867961) id1=31298(m1=0.560411):id2=207969(m2=0.307551) (r=0.0490264) typem=1 type1=0 type2=0 
+t=7.54387 binary-single idm=241299(mm=1.53438) id1=36545(m1=0.666415):id2=241298(m2=0.867961) (r=0.0439073) typem=1 type1=0 type2=1 
+t=7.54711 binary-binary idm=361659(mm=1.59113) id1=156954(m1=0.588403):id2=151659(m2=1.00273) (r=0.0587421) typem=6 type1=0 type2=11 
+t=7.55581 binary-single idm=244867(mm=1.54658) id1=34867(m1=0.990738):id2=92886(m2=0.555845) (r=0.0320276) typem=6 type1=11 type2=0 
+t=7.56178 single-single idm=232793(mm=1.74944) id1=145079(m1=0.751946):id2=22793(m2=0.997495) (r=0.0832352) typem=6 type1=0 type2=11 b[RSUN]=78.7635 vinf[km/s]=4.74722
+t=7.5624 binary-single idm=314624(mm=1.71058) id1=104624(m1=1.01721):id2=200512(m2=0.693375) (r=0.0180251) typem=6 type1=11 type2=0 
+t=7.5631 binary-single idm=265735(mm=0.943623) id1=145333(m1=0.432016):id2=55735(m2=0.511608) (r=0.0691464) typem=1 type1=0 type2=0 
+t=7.63882 binary-single idm=222996(mm=1.31273) id1=12996(m1=0.710466):id2=204048(m2=0.602261) (r=0.197958) typem=6 type1=11 type2=0 
+t=7.65292 single-single idm=218249(mm=1.82648) id1=8249(m1=0.92777):id2=89634(m2=0.898707) (r=0.0247889) typem=6 type1=11 type2=1 b[RSUN]=191.621 vinf[km/s]=5.0872
+t=7.72274 single-single idm=257143(mm=1.53233) id1=120032(m1=0.961027):id2=47143(m2=0.900306) (r=0.090534) typem=5 type1=11 type2=2 b[RSUN]=270.401 vinf[km/s]=5.22507
+t=7.79298 binary-single idm=233584(mm=1.68705) id1=233583(m1=0.910364):id2=36984(m2=0.776682) (r=0.0362885) typem=6 type1=11 type2=1 
+t=7.79541 single-single idm=317048(mm=1.67089) id1=163437(m1=0.862387):id2=107048(m2=0.808503) (r=0.130253) typem=6 type1=11 type2=1 b[RSUN]=153.334 vinf[km/s]=4.24998
+t=7.8097 binary-binary idm=257779(mm=1.07205) id1=47779(m1=0.538308):id2=204144(m2=0.533744) (r=0.0222757) typem=1 type1=0 type2=0 
+t=7.8122 binary-single idm=222023(mm=1.96787) id1=81097(m1=0.789852):id2=12023(m2=1.18107) (r=0.0310233) typem=5 type1=3 type2=11 
+t=7.83518 binary-binary idm=283326(mm=1.49526) id1=104709(m1=0.875539):id2=73325(m2=0.512412):id3=204573(m3=0.107309) (r=0.105381) typem=1 type1=1 type2=0 type3=0 
+t=7.84247 binary-single idm=334047(mm=0.901556) id1=124047(m1=0.641205):id2=208637(m2=0.260351) (r=0.0644247) typem=1 type1=0 type2=0 
+t=7.84299 binary-single idm=221043(mm=1.242) id1=11042(m1=1.242):id2=283326(m2=1.49526) (r=0.0243745) typem=13 type1=13 type2=1 
+t=7.85369 binary-single idm=298268(mm=1.15199) id1=88268(m1=0.633087):id2=206315(m2=0.518905) (r=0.048281) typem=1 type1=0 type2=0 
+t=7.86837 binary-single idm=237126(mm=1.242) id1=360185(m1=1.242):id2=27125(m2=0.861653) (r=0.0300519) typem=13 type1=13 type2=1 
+t=7.87823 binary-single idm=317894(mm=1.06423) id1=107894(m1=0.556438):id2=204906(m2=0.507792) (r=0.0597178) typem=1 type1=0 type2=0 
+t=7.91041 binary-single idm=284307(mm=2.02983) id1=158083(m1=0.800885):id2=284306(m2=1.22895) (r=0.102492) typem=1 type1=1 type2=1 
+t=7.9109 binary-single idm=244644(mm=1.80987) id1=118647(m1=0.825644):id2=34644(m2=0.984225) (r=0.135729) typem=6 type1=1 type2=11 
+t=7.92027 binary-single idm=212178(mm=1.44277) id1=2178(m1=0.857798):id2=202100(m2=0.584973) (r=0.0539511) typem=1 type1=1 type2=0 
+t=7.93804 binary-binary idm=212179(mm=2.81531) id1=212178(m1=1.44277):id2=29422(m2=1.37254) (r=0.0047981) typem=6 type1=1 type2=12 
+t=7.93859 binary-single idm=252220(mm=1.48622) id1=42220(m1=0.642195):id2=170101(m2=0.84403) (r=0.0387217) typem=1 type1=0 type2=1 
+t=7.9605 binary-binary idm=290965(mm=2.2985) id1=80964(m1=1.01323):id2=203458(m2=0.472856):id3=147830(m3=0.813821) (r=0.0148861) typem=6 type1=11 type2=0 type3=1 
+t=7.97208 binary-single idm=294892(mm=1.242) id1=84892(m1=0.887858):id2=206051(m2=0.722077) (r=0.0190085) typem=13 type1=11 type2=11 
+t=7.98348 binary-single idm=256721(mm=1.75474) id1=123637(m1=0.995249):id2=46721(m2=0.759487) (r=0.0128473) typem=6 type1=11 type2=1 
+t=7.98483 binary-binary idm=330958(mm=1.21319) id1=120958(m1=0.823593):id2=175427(m2=0.389594) (r=0.022764) typem=3 type1=1 type2=10 
+t=7.98566 binary-single idm=242583(mm=2.06908) id1=42572(m1=1.21607):id2=32583(m2=0.853016) (r=0.00928017) typem=6 type1=12 type2=1 
+t=7.98773 binary-single idm=333479(mm=1.54698) id1=123479(m1=1.00864):id2=203876(m2=0.538331) (r=0.0118828) typem=6 type1=11 type2=0 
+t=8.01131 binary-single idm=356819(mm=1.70942) id1=146819(m1=1.01405):id2=205536(m2=0.695369) (r=0.0195101) typem=6 type1=11 type2=0 
+t=8.0136 binary-binary idm=239228(mm=1.76491) id1=189241(m1=1.29302):id2=29228(m2=0.471893) (r=0.0270996) typem=6 type1=12 type2=0 
+t=8.02561 binary-single idm=240180(mm=2.58845) id1=240178(m1=1.57522):id2=290965(m2=1.01323) (r=0.0299722) typem=6 type1=1 type2=11 
+t=8.04913 single-single idm=272517(mm=1.8086) id1=91807(m1=0.938775):id2=62517(m2=0.869825) (r=0.0572962) typem=6 type1=11 type2=1 b[RSUN]=195.891 vinf[km/s]=3.57816
+t=8.05039 single-single idm=229477(mm=2.08881) id1=19476(m1=0.789608):id2=289913(m2=1.2992) (r=0.0519302) typem=6 type1=1 type2=12 b[RSUN]=135.585 vinf[km/s]=0.985356
+t=8.06219 single-single idm=302771(mm=1.60644) id1=92771(m1=0.695382):id2=140643(m2=0.911061) (r=0.118376) typem=6 type1=0 type2=11 b[RSUN]=90.2998 vinf[km/s]=6.58612
+t=8.09342 binary-single idm=397362(mm=1.73966) id1=187362(m1=1.2177):id2=209333(m2=0.521962) (r=0.0517347) typem=6 type1=12 type2=0 
+t=8.09467 binary-single idm=231687(mm=1.72137) id1=124254(m1=0.982409):id2=21687(m2=0.738958) (r=0.028443) typem=6 type1=11 type2=0 
+t=8.12778 binary-single idm=256296(mm=1.49396) id1=46296(m1=0.851418):id2=204464(m2=0.642543) (r=0.0574003) typem=1 type1=1 type2=0 
+t=8.14762 binary-single idm=378208(mm=0.895088) id1=168208(m1=0.453267):id2=208520(m2=0.441821) (r=0.029988) typem=1 type1=0 type2=0 
+t=8.17253 binary-binary idm=211392(mm=0.735454) id1=1392(m1=0.591612):id2=202499(m2=0.143842) (r=0.0227777) typem=0 type1=0 type2=0 
+t=8.2323 binary-single idm=356820(mm=1.59724) id1=184265(m1=0.583198):id2=356819(m2=1.01405) (r=0.0418378) typem=6 type1=0 type2=11 
+t=8.23637 single-single idm=256398(mm=1.46682) id1=46398(m1=0.503698):id2=141739(m2=0.963126) (r=0.0525937) typem=6 type1=0 type2=11 b[RSUN]=6.97681 vinf[km/s]=11.9677
+t=8.2419 binary-single idm=264852(mm=1.74426) id1=134233(m1=1.01415):id2=54852(m2=0.730108) (r=0.031681) typem=6 type1=11 type2=0 
+t=8.27025 binary-binary idm=411548(mm=0.287802) id1=201548(m1=0.135606):id2=202848(m2=0.152196) (r=1.31976) typem=0 type1=0 type2=0 
+t=8.27711 binary-binary idm=346356(mm=0.663069) id1=136356(m1=0.353972):id2=200084(m2=0.309097) (r=0.0716163) typem=0 type1=0 type2=0 
+t=8.30149 binary-binary idm=231688(mm=1.242) id1=231687(m1=0.982409):id2=115192(m2=1.12849) (r=0.0128135) typem=13 type1=11 type2=11 
+t=8.32282 single-single idm=287962(mm=1.88466) id1=129885(m1=1.01055):id2=77962(m2=0.874114) (r=0.94076) typem=6 type1=11 type2=1 b[RSUN]=161.488 vinf[km/s]=5.31828
+t=8.35023 binary-single idm=210370(mm=2.03423) id1=370(m1=0.839639):id2=96667(m2=1.19459) (r=0.0353101) typem=6 type1=1 type2=11 
+t=8.35323 binary-binary idm=314600(mm=1.29567) id1=104600(m1=0.741779):id2=207955(m2=0.553895) (r=0.011781) typem=1 type1=0 type2=0 
+t=8.42292 binary-single idm=318157(mm=1.83193) id1=189317(m1=1.11886):id2=108157(m2=0.713078) (r=0.0247591) typem=6 type1=11 type2=0 
+t=8.42977 binary-binary idm=221432(mm=1.06083) id1=11432(m1=0.881256):id2=207679(m2=0.384273) (r=0.00836999) typem=3 type1=3 type2=0 
+t=8.43657 binary-binary idm=352040(mm=1.10787) id1=142039(m1=1.07668):id2=200069(m2=0.608281):id3=142956(m3=1.01915) (r=0.00897501) typem=13 type1=11 type2=0 type3=11 
+t=8.46789 binary-single idm=370227(mm=0.783353) id1=160227(m1=0.415538):id2=209785(m2=0.367815) (r=0.0200113) typem=1 type1=0 type2=0 
+t=8.50955 binary-single idm=312108(mm=1.58456) id1=191624(m1=1.01419):id2=102108(m2=0.570371) (r=0.0844875) typem=6 type1=11 type2=0 
+t=8.52903 binary-single idm=268166(mm=1.67598) id1=58166(m1=0.993687):id2=205131(m2=0.682293) (r=0.06077) typem=6 type1=11 type2=0 
+t=8.53212 single-single idm=304450(mm=2.02782) id1=94450(m1=0.87898):id2=115926(m2=1.14902) (r=0.0263393) typem=5 type1=3 type2=11 b[RSUN]=204.3 vinf[km/s]=3.75808
+t=8.551 binary-single idm=323110(mm=1.71277) id1=152782(m1=0.999419):id2=113110(m2=0.713353) (r=0.0310643) typem=6 type1=11 type2=0 
+t=8.60263 binary-binary idm=361877(mm=1.01212) id1=151877(m1=0.750798):id2=205257(m2=0.261324) (r=0.0573567) typem=1 type1=0 type2=0 
+t=8.61539 binary-single idm=283400(mm=1.242) id1=73400(m1=0.945032):id2=122309(m2=0.998722) (r=0.0217841) typem=13 type1=11 type2=11 
+t=8.65701 single-single idm=321859(mm=1.64182) id1=111859(m1=0.811171):id2=168806(m2=0.830652) (r=0.174542) typem=1 type1=1 type2=1 b[RSUN]=230.736 vinf[km/s]=3.72665
+t=8.70761 single-single idm=246093(mm=1.77961) id1=87748(m1=1.03891):id2=36093(m2=0.740702) (r=0.0403525) typem=6 type1=11 type2=0 b[RSUN]=62.4401 vinf[km/s]=5.64044
+t=8.7269 binary-single idm=255080(mm=2.05089) id1=111112(m1=0.810683):id2=45080(m2=1.24021) (r=0.0486552) typem=6 type1=1 type2=12 
+t=8.73767 binary-binary idm=273499(mm=1.58898) id1=63499(m1=1.25745):id2=205060(m2=0.33153) (r=0.00540934) typem=6 type1=12 type2=0 
+t=8.7429 single-single idm=292069(mm=2.26646) id1=82069(m1=1.23924):id2=139942(m2=1.02755) (r=0.0500844) typem=5 type1=12 type2=3 b[RSUN]=166.735 vinf[km/s]=5.96205
+t=8.7456 single-single idm=281781(mm=1.89228) id1=71781(m1=0.786265):id2=114558(m2=1.10601) (r=0.0427108) typem=6 type1=1 type2=11 b[RSUN]=57.7087 vinf[km/s]=11.9093
+t=8.76065 binary-single idm=401809(mm=1.64936) id1=196712(m1=0.994051):id2=191809(m2=0.65531) (r=0.0319199) typem=6 type1=11 type2=0 
+t=8.77146 binary-single idm=257700(mm=1.73224) id1=269231(m1=1.07704):id2=47699(m2=0.655203) (r=0.0149337) typem=6 type1=11 type2=0 
+t=8.92051 single-single idm=289607(mm=1.74973) id1=133138(m1=0.745535):id2=79607(m2=1.00419) (r=0.0449892) typem=6 type1=0 type2=11 b[RSUN]=55.0918 vinf[km/s]=8.68107
+t=8.92673 binary-binary idm=377456(mm=1.40744) id1=167456(m1=0.71318):id2=205404(m2=0.694265) (r=0.0457981) typem=1 type1=0 type2=0 
+t=8.94067 binary-single idm=225369(mm=1.76445) id1=126637(m1=1.01694):id2=15369(m2=0.747512) (r=0.020759) typem=6 type1=11 type2=0 
+t=8.95527 single-single idm=216961(mm=1.84955) id1=6961(m1=0.866999):id2=93121(m2=0.982767) (r=0.0877493) typem=5 type1=3 type2=11 b[RSUN]=422.416 vinf[km/s]=3.50288
+t=9.03566 binary-binary idm=369721(mm=1.23533) id1=159721(m1=0.638826):id2=204190(m2=0.596501) (r=0.0677636) typem=1 type1=0 type2=0 
+t=9.04364 binary-single idm=245564(mm=1.74873) id1=35564(m1=0.741604):id2=63291(m2=1.00713) (r=0.0288429) typem=6 type1=0 type2=11 
+t=9.04833 binary-single idm=349972(mm=1.50658) id1=162589(m1=0.860019):id2=139972(m2=0.646559) (r=0.0959385) typem=1 type1=1 type2=0 
+t=9.05745 single-single idm=317895(mm=2.18421) id1=317894(m1=1.06423):id2=180260(m2=1.11998) (r=0.0836958) typem=6 type1=1 type2=11 b[RSUN]=192.607 vinf[km/s]=2.0253
+t=9.11579 binary-single idm=212754(mm=1.42149) id1=2754(m1=0.74723):id2=202374(m2=0.674261) (r=0.0380934) typem=1 type1=0 type2=0 
+t=9.11908 single-single idm=343338(mm=2.03133) id1=135648(m1=0.8558):id2=133338(m2=1.17553) (r=0.0448216) typem=6 type1=1 type2=11 b[RSUN]=270.594 vinf[km/s]=3.10433
+t=9.1372 binary-single idm=234714(mm=2.53254) id1=24713(m1=1.12509):id2=377456(m2=1.40744) (r=0.0402483) typem=6 type1=11 type2=1 
+t=9.16266 binary-single idm=261112(mm=2.74169) id1=51111(m1=1.23511):id2=349972(m2=1.50658) (r=0.038991) typem=6 type1=12 type2=1 
+t=9.17568 binary-single idm=363949(mm=1.01637) id1=153949(m1=0.760594):id2=206485(m2=0.255772) (r=0.0460826) typem=6 type1=11 type2=0 
+t=9.23326 binary-single idm=274550(mm=0.741872) id1=64550(m1=0.449818):id2=133357(m2=0.292054) (r=0.156175) typem=0 type1=0 type2=0 
+t=9.24463 binary-single idm=274071(mm=1.1964) id1=64071(m1=0.708479):id2=202801(m2=0.48792) (r=0.0879156) typem=1 type1=0 type2=0 
+t=9.24624 binary-single idm=212755(mm=2.42768) id1=162143(m1=1.00619):id2=212754(m2=1.42149) (r=0.0121996) typem=6 type1=11 type2=1 
+t=9.2579 single-single idm=217393(mm=1.95913) id1=7393(m1=0.744439):id2=117776(m2=1.2147) (r=0.0528564) typem=6 type1=0 type2=12 b[RSUN]=49.6481 vinf[km/s]=10.5001
+t=9.26765 binary-single idm=385488(mm=1.19521) id1=175488(m1=0.779197):id2=205136(m2=0.416018) (r=0.256423) typem=1 type1=1 type2=0 
+t=9.27805 single-single idm=246991(mm=0.525844) id1=36991(m1=0.420324):id2=134442(m2=0.10552) (r=13.08) typem=0 type1=0 type2=0 b[RSUN]=100.876 vinf[km/s]=2.95178
+t=9.27967 binary-single idm=211169(mm=2.03338) id1=197011(m1=0.858228):id2=1169(m2=1.17548) (r=0.00805417) typem=5 type1=3 type2=11 
+t=9.27993 single-single idm=315087(mm=2.10638) id1=105087(m1=1.28054):id2=136089(m2=0.825844) (r=0.02691) typem=6 type1=12 type2=1 b[RSUN]=62.4566 vinf[km/s]=6.76119
+t=9.28008 single-single idm=247831(mm=1.10787) id1=37830(m1=0.886363):id2=315087(m2=1.67754) (r=0.00427322) typem=13 type1=11 type2=6 b[RSUN]=2226.43 vinf[km/s]=7.25325
+t=9.2829 binary-binary idm=323166(mm=2.99643) id1=118323(m1=0.753834):id2=323163(m2=1.04929):id3=385488(m3=1.19521) (r=0.00526005) typem=6 type1=0 type2=11 type3=1 
+t=9.2899 binary-binary idm=217116(mm=1.73044) id1=161927(m1=1.05882):id2=7116(m2=0.671622) (r=0.0138617) typem=6 type1=11 type2=0 
+t=9.28995 binary-single idm=244354(mm=1.53293) id1=135824(m1=0.979204):id2=34354(m2=0.553721) (r=0.0111312) typem=6 type1=11 type2=0 
+t=9.2916 binary-binary idm=327583(mm=1.08146) id1=117583(m1=0.815671):id2=209882(m2=0.265786) (r=0.0218595) typem=1 type1=1 type2=0 
+t=9.30071 binary-single idm=262265(mm=1.40114) id1=70637(m1=0.823063):id2=52265(m2=0.578077) (r=0.0323119) typem=1 type1=1 type2=0 
+t=9.31343 single-single idm=284505(mm=2.0158) id1=74505(m1=1.15754):id2=74964(m2=0.858347) (r=0.0418051) typem=5 type1=11 type2=3 b[RSUN]=67.3282 vinf[km/s]=6.279
+t=9.32995 binary-binary idm=288354(mm=0.890982) id1=78354(m1=0.704667):id2=206091(m2=0.186315) (r=0.0193008) typem=1 type1=0 type2=0 
+t=9.33813 binary-single idm=210693(mm=2.48473) id1=144247(m1=1.25213):id2=692(m2=0.699692):id3=203170(m3=0.534287) (r=0.0351752) typem=6 type1=12 type2=0 type3=0 
+t=9.44731 binary-single idm=228269(mm=1.242) id1=66311(m1=0.990786):id2=18269(m2=1.22918) (r=0.0347685) typem=13 type1=11 type2=12 
+t=9.48417 binary-single idm=345361(mm=1.82875) id1=135361(m1=0.990928):id2=171719(m2=0.837825) (r=0.0427506) typem=6 type1=11 type2=1 
+t=9.4893 binary-single idm=245946(mm=1.02602) id1=35946(m1=0.524132):id2=201292(m2=0.501889) (r=0.0967279) typem=1 type1=0 type2=0 
+t=9.49883 binary-single idm=233151(mm=1.68625) id1=153019(m1=0.991237):id2=23151(m2=0.695009) (r=0.0396598) typem=6 type1=11 type2=0 
+t=9.52274 binary-binary idm=344045(mm=0.845328) id1=134045(m1=0.75603):id2=207558(m2=0.0892976) (r=2.35263) typem=1 type1=1 type2=0 
+t=9.54761 binary-single idm=319478(mm=2.12533) id1=109478(m1=1.34108):id2=135690(m2=0.784248) (r=0.0935753) typem=6 type1=12 type2=1 
+t=9.55822 single-single idm=213702(mm=1.36645) id1=3702(m1=0.851234):id2=151474(m2=1.04094) (r=0.031638) typem=5 type1=2 type2=11 b[RSUN]=158.597 vinf[km/s]=6.41134
+t=9.5714 single-single idm=227973(mm=1.72685) id1=30025(m1=0.70918):id2=17973(m2=1.01783) (r=0.0293844) typem=4 type1=4 type2=11 b[RSUN]=266.526 vinf[km/s]=4.8235
+t=9.58721 binary-single idm=337135(mm=1.04041) id1=127135(m1=0.562589):id2=203077(m2=0.477825) (r=0.161336) typem=1 type1=0 type2=0 
+t=9.6199 single-single idm=329022(mm=1.77784) id1=154463(m1=0.996888):id2=119022(m2=0.780953) (r=0.0389452) typem=6 type1=11 type2=1 b[RSUN]=72.3086 vinf[km/s]=8.20236
+t=9.63782 single-single idm=217457(mm=1.43854) id1=7457(m1=0.673789):id2=170555(m2=0.764753) (r=0.0428795) typem=6 type1=11 type2=1 b[RSUN]=157.072 vinf[km/s]=3.78026
+t=9.65726 binary-binary idm=285883(mm=1.21353) id1=75883(m1=0.72743):id2=206813(m2=0.486104) (r=0.0841241) typem=1 type1=0 type2=0 
+t=9.68512 binary-single idm=245947(mm=1.70746) id1=125906(m1=0.681442):id2=245946(m2=1.02602) (r=0.046344) typem=1 type1=0 type2=1 
+t=9.73126 binary-single idm=245948(mm=2.72313) id1=115436(m1=1.01566):id2=245947(m2=1.70746) (r=0.00938844) typem=6 type1=11 type2=1 
+t=9.73449 binary-binary idm=268167(mm=1.69034) id1=115298(m1=0.696657):id2=268166(m2=0.993687) (r=0.0185769) typem=6 type1=0 type2=11 
+t=9.76669 binary-single idm=294057(mm=1.21012) id1=84057(m1=0.609699):id2=203569(m2=0.600419) (r=0.142962) typem=1 type1=0 type2=0 
+t=9.84235 binary-binary idm=344046(mm=1.42836) id1=156565(m1=0.583028):id2=344045(m2=0.845328) (r=0.0595657) typem=1 type1=0 type2=1 
+t=9.89936 binary-single idm=294016(mm=1.19196) id1=84016(m1=0.678091):id2=118507(m2=0.51387) (r=0.0361984) typem=1 type1=0 type2=0 
+t=9.90085 single-single idm=301473(mm=1.70707) id1=91473(m1=1.01258):id2=104510(m2=0.694492) (r=0.0482834) typem=6 type1=11 type2=0 b[RSUN]=254.1 vinf[km/s]=1.09693
+t=9.92826 binary-single idm=259485(mm=0.898863) id1=153403(m1=0.713895):id2=49485(m2=0.184968) (r=0.240834) typem=6 type1=11 type2=0 
+t=10.0598 single-single idm=321869(mm=1.77021) id1=111869(m1=0.979848):id2=182534(m2=0.791397) (r=0.107246) typem=5 type1=11 type2=3 b[RSUN]=759.775 vinf[km/s]=4.99644
+t=10.0927 binary-single idm=365923(mm=0.938826) id1=155923(m1=0.53286):id2=203193(m2=0.405966) (r=0.324554) typem=1 type1=0 type2=0 
+t=10.1078 binary-binary idm=226447(mm=1.87689) id1=16447(m1=0.686279):id2=39618(m2=1.19061) (r=0.0065667) typem=6 type1=0 type2=11 
+t=10.1112 single-single idm=297317(mm=1.48063) id1=87317(m1=0.660741):id2=142765(m2=0.81989) (r=0.189972) typem=6 type1=11 type2=1 b[RSUN]=116.124 vinf[km/s]=6.92964
+t=10.1338 binary-single idm=280546(mm=1.26071) id1=125110(m1=1.26071):id2=70546(m2=0.377027) (r=0.0487424) typem=13 type1=13 type2=0 
+t=10.1421 binary-single idm=382495(mm=1.80853) id1=172495(m1=1.16454):id2=202001(m2=0.643999) (r=0.0314369) typem=6 type1=11 type2=0 
+t=10.2196 binary-single idm=269331(mm=1.60145) id1=114241(m1=0.580377):id2=59331(m2=1.02107) (r=0.0113021) typem=6 type1=0 type2=11 
+t=10.2395 binary-single idm=349493(mm=1.88287) id1=139493(m1=1.20786):id2=196298(m2=0.675008) (r=0.0619565) typem=6 type1=11 type2=0 
+t=10.2739 single-single idm=228453(mm=1.79794) id1=18453(m1=0.795575):id2=68345(m2=1.00236) (r=0.088002) typem=6 type1=1 type2=11 b[RSUN]=26.6535 vinf[km/s]=12.2174
+t=10.2943 binary-single idm=329775(mm=1.62564) id1=119775(m1=1.14007):id2=204165(m2=0.485569) (r=0.0121549) typem=6 type1=11 type2=0 
+t=10.323 single-single idm=318180(mm=2.18828) id1=344046(m1=1.42836):id2=108179(m2=0.759922) (r=0.0266318) typem=1 type1=1 type2=1 b[RSUN]=101.749 vinf[km/s]=10.0334
+t=10.346 binary-binary idm=242370(mm=1.34754) id1=32370(m1=0.71083):id2=200557(m2=0.636707) (r=0.0310516) typem=1 type1=0 type2=0 
+t=10.3523 binary-single idm=319497(mm=1.42474) id1=122333(m1=0.613667):id2=109497(m2=0.811068) (r=1.06945) typem=6 type1=11 type2=1 
+t=10.4553 single-single idm=311315(mm=1.76191) id1=117554(m1=0.991255):id2=101315(m2=0.770658) (r=0.0895047) typem=6 type1=11 type2=1 b[RSUN]=105.012 vinf[km/s]=6.98334
+t=10.4963 binary-single idm=250324(mm=0.769684) id1=40324(m1=0.676938):id2=208764(m2=0.0927469) (r=0.0439054) typem=1 type1=0 type2=0 
+t=10.5296 binary-single idm=221291(mm=1.80969) id1=11291(m1=0.816112):id2=118381(m2=0.993575) (r=0.00781876) typem=6 type1=1 type2=11 
+t=10.5512 single-single idm=279711(mm=2.03817) id1=69711(m1=0.817213):id2=174331(m2=1.22096) (r=0.0379357) typem=6 type1=1 type2=12 b[RSUN]=121.175 vinf[km/s]=7.62571
+t=10.5549 single-single idm=231606(mm=2.28593) id1=243829(m1=1.03782):id2=21605(m2=1.24828) (r=0.125851) typem=5 type1=3 type2=12 b[RSUN]=604.022 vinf[km/s]=2.02225
+t=10.5682 single-single idm=245086(mm=1.242) id1=162301(m1=1.24642):id2=35086(m2=1.22222) (r=0.13368) typem=13 type1=12 type2=12 b[RSUN]=14.0166 vinf[km/s]=5.04341
+t=10.625 binary-single idm=388655(mm=0.658523) id1=178655(m1=0.465391):id2=203687(m2=0.193132) (r=0.0121392) typem=0 type1=0 type2=0 
+t=10.6311 binary-single idm=309922(mm=1.11753) id1=99922(m1=0.567797):id2=202031(m2=0.549731) (r=0.0301247) typem=1 type1=0 type2=0 
+t=10.6653 binary-single idm=331445(mm=1.39871) id1=121445(m1=0.398935):id2=152664(m2=0.99978) (r=0.0185745) typem=6 type1=0 type2=11 
+t=10.7178 binary-binary idm=389704(mm=0.770931) id1=179704(m1=0.500436):id2=200335(m2=0.270495) (r=1.07859) typem=1 type1=0 type2=0 
+t=10.8127 binary-single idm=291871(mm=1.55195) id1=81871(m1=0.743476):id2=203692(m2=0.808469) (r=0.0205353) typem=1 type1=0 type2=1 
+t=10.8847 binary-single idm=225467(mm=1.68205) id1=15467(m1=0.68164):id2=156534(m2=1.00041) (r=0.055772) typem=6 type1=0 type2=11 
+t=10.8934 binary-single idm=314096(mm=0.782182) id1=104096(m1=0.336177):id2=204483(m2=0.446005) (r=0.470687) typem=1 type1=0 type2=0 
+t=10.9363 binary-single idm=210914(mm=2.54311) id1=913(m1=0.991168):id2=291871(m2=1.55195) (r=0.0117038) typem=6 type1=11 type2=1 
+t=10.9498 binary-single idm=277510(mm=0.9586) id1=67510(m1=0.63366):id2=209510(m2=0.32494) (r=0.030177) typem=1 type1=0 type2=0 
+t=10.9624 binary-single idm=285677(mm=0.902665) id1=75677(m1=0.483529):id2=205221(m2=0.419136) (r=0.206334) typem=1 type1=0 type2=0 
+t=10.9704 binary-binary idm=302825(mm=1.57245) id1=92825(m1=0.962621):id2=93936(m2=0.609829) (r=0.0504387) typem=6 type1=11 type2=0 
+t=11.0131 single-single idm=342954(mm=1.43365) id1=156463(m1=0.690423):id2=132954(m2=0.820174) (r=0.0252475) typem=2 type1=0 type2=2 b[RSUN]=30.1202 vinf[km/s]=7.45224
+t=11.0207 single-single idm=262026(mm=1.58503) id1=190839(m1=0.568556):id2=262025(m2=1.01648) (r=0.027227) typem=6 type1=0 type2=11 b[RSUN]=24.0668 vinf[km/s]=8.07661
+t=11.043 binary-single idm=381672(mm=1.25476) id1=171672(m1=0.768137):id2=203738(m2=0.486622) (r=0.024594) typem=1 type1=1 type2=0 
+t=11.0469 binary-binary idm=0(mm=2.30009) id1=121837(m1=1.04533):id2=381672(m2=1.25476) (r=0.0348127) typem=6 type1=11 type2=1 
+t=11.048 binary-single idm=234910(mm=1.26071) id1=24910(m1=0.811011):id2=57334(m2=1.26071) (r=0.0182771) typem=13 type1=1 type2=13 
+t=11.0705 binary-binary idm=319042(mm=0.740361) id1=109042(m1=0.436668):id2=207264(m2=0.303693) (r=0.0743736) typem=0 type1=0 type2=0 
+t=11.0823 binary-single idm=280038(mm=1.69186) id1=70038(m1=0.99073):id2=139801(m2=0.701131) (r=0.0628585) typem=6 type1=11 type2=0 
+t=11.1367 single-single idm=274511(mm=1.58704) id1=124461(m1=0.804843):id2=64511(m2=0.782193) (r=0.0427178) typem=1 type1=1 type2=1 b[RSUN]=126.241 vinf[km/s]=5.10788
+t=11.1396 binary-single idm=371554(mm=0.879887) id1=161554(m1=0.444661):id2=207574(m2=0.435226) (r=0.0343448) typem=1 type1=0 type2=0 
+t=11.2019 binary-binary idm=309954(mm=1.71718) id1=99954(m1=1.07517):id2=165289(m2=0.642005) (r=0.0554164) typem=6 type1=11 type2=0 
+t=11.2415 binary-single idm=311924(mm=1.242) id1=101924(m1=0.813782):id2=105308(m2=1.34321) (r=0.0523158) typem=13 type1=11 type2=12 
+t=11.2502 binary-single idm=258743(mm=1.62548) id1=48743(m1=1.15812):id2=208185(m2=0.467364) (r=0.0311657) typem=6 type1=11 type2=0 
+t=11.3577 binary-single idm=334609(mm=0.947512) id1=124609(m1=0.665642):id2=204985(m2=0.28187) (r=0.0424721) typem=1 type1=0 type2=0 
+t=11.3801 binary-single idm=365853(mm=1.81948) id1=155853(m1=0.800684):id2=183427(m2=1.0188) (r=0.0159007) typem=6 type1=1 type2=11 
+t=11.4233 binary-single idm=215306(mm=2.31286) id1=5305(m1=1.02085):id2=182056(m2=0.768884):id3=205867(m3=0.523129) (r=0.0409625) typem=5 type1=11 type2=1 type3=0 
+t=11.4395 binary-single idm=409151(mm=1.64357) id1=199151(m1=1.01754):id2=206572(m2=0.626032) (r=0.0545508) typem=6 type1=11 type2=0 
+t=11.499 single-single idm=275879(mm=1.5204) id1=177398(m1=0.743319):id2=65879(m2=0.777083) (r=0.0566911) typem=1 type1=0 type2=1 b[RSUN]=276.625 vinf[km/s]=2.09488
+t=11.5268 binary-binary idm=260926(mm=0.927212) id1=50926(m1=0.510141):id2=205921(m2=0.417071) (r=0.0419111) typem=1 type1=0 type2=0 
+t=11.5343 binary-single idm=215388(mm=1.40797) id1=5388(m1=0.706168):id2=204479(m2=0.701798) (r=0.0436991) typem=1 type1=0 type2=0 
+t=11.5969 single-single idm=230842(mm=1.35518) id1=80134(m1=0.578855):id2=20842(m2=0.776328) (r=0.0230536) typem=6 type1=11 type2=1 b[RSUN]=80.0914 vinf[km/s]=8.30948
+t=11.6413 binary-binary idm=218806(mm=2.06817) id1=8805(m1=0.885034):id2=145862(m2=0.641155):id3=205660(m3=0.541979) (r=0.0179247) typem=5 type1=11 type2=0 type3=0 
+t=11.6889 binary-single idm=367686(mm=0.822242) id1=157686(m1=0.573788):id2=206338(m2=0.248454) (r=0.0724748) typem=1 type1=0 type2=0 
+t=11.6933 binary-single idm=367687(mm=1.8216) id1=192301(m1=0.999355):id2=367686(m2=0.822242) (r=0.0109376) typem=6 type1=11 type2=1 
+t=11.7425 binary-binary idm=413743(mm=0.822866) id1=203743(m1=0.492089):id2=206880(m2=0.330778) (r=0.0366085) typem=1 type1=0 type2=0 
+t=11.8653 binary-single idm=282803(mm=1.4854) id1=72803(m1=1.01957):id2=200751(m2=0.465821) (r=0.082275) typem=6 type1=11 type2=0 
+t=11.9103 single-single idm=274621(mm=1.78526) id1=64621(m1=0.784608):id2=191901(m2=1.00065) (r=0.0309509) typem=6 type1=1 type2=11 b[RSUN]=102.372 vinf[km/s]=4.65601
+t=11.9628 single-single idm=282371(mm=1.81505) id1=111293(m1=0.794733):id2=72371(m2=1.02031) (r=0.0622627) typem=6 type1=1 type2=11 b[RSUN]=68.9599 vinf[km/s]=5.60947
+t=11.9874 single-single idm=253754(mm=1.7775) id1=43754(m1=0.763621):id2=124492(m2=1.01388) (r=0.0186448) typem=6 type1=1 type2=11 b[RSUN]=359.515 vinf[km/s]=2.1388
+t=12.0268 binary-single idm=342919(mm=1.27346) id1=132919(m1=0.991138):id2=204566(m2=0.28232) (r=0.101606) typem=6 type1=11 type2=0 
+t=12.0491 binary-single idm=210591(mm=1.20395) id1=591(m1=0.420274):id2=203811(m2=0.783673) (r=0.0109178) typem=3 type1=10 type2=1 
+t=12.0906 binary-single idm=265693(mm=0.868343) id1=55693(m1=0.769818):id2=200129(m2=0.0985251) (r=0.0374303) typem=1 type1=1 type2=0 
+t=12.172 binary-single idm=340050(mm=1.119) id1=130050(m1=0.744466):id2=209144(m2=0.374535) (r=0.12564) typem=1 type1=0 type2=0 
+t=12.2424 binary-single idm=405618(mm=0.982718) id1=195618(m1=0.574565):id2=206149(m2=0.408153) (r=0.0975689) typem=1 type1=0 type2=0 
+t=12.2926 single-single idm=357956(mm=1.65292) id1=147956(m1=0.709442):id2=194036(m2=0.943474) (r=0.032528) typem=6 type1=0 type2=11 b[RSUN]=67.3286 vinf[km/s]=6.67242

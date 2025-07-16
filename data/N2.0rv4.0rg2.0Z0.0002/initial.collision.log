@@ -1,0 +1,15 @@
+# time interaction_type id_merger(mass_merger) id1(m1):id2(m2):id3(m3):... (r) type_merger type1 ...
+t=0.0090629 binary-single idm=250479(mm=0.972384) id1=40479(m1=0.838435):id2=204219(m2=0.133949) (r=0.320732) typem=1 type1=1 type2=0 
+t=0.0254808 binary-binary idm=293075(mm=40.5) id1=83075(m1=0.097235):id2=149723(m2=40.5) (r=0.0210913) typem=14 type1=0 type2=14 
+t=0.0311147 binary-binary idm=257599(mm=29.5087) id1=137507(m1=29.5087):id2=47599(m2=0.777974) (r=0.00572139) typem=14 type1=14 type2=1 
+t=0.0311284 binary-binary idm=261333(mm=40.3816) id1=51333(m1=40.3816):id2=80540(m2=0.112114) (r=0.00584728) typem=14 type1=14 type2=0 
+t=0.0313078 single-single idm=225468(mm=0.464855) id1=101321(m1=0.182329):id2=15468(m2=0.282527) (r=0.881151) typem=0 type1=0 type2=0 b[RSUN]=18.5991 vinf[km/s]=10.1228
+t=0.0385091 binary-binary idm=251253(mm=40.5) id1=41252(m1=0.427536):id2=293075(m2=40.5) (r=0.0450364) typem=14 type1=0 type2=14 
+t=0.0429283 binary-binary idm=223698(mm=29.7335) id1=13698(m1=0.522713):id2=191220(m2=29.7335) (r=0.140425) typem=14 type1=0 type2=14 
+t=0.0494446 binary-binary idm=248127(mm=29.673) id1=38127(m1=0.237323):id2=196116(m2=29.673) (r=0.0121006) typem=14 type1=0 type2=14 
+t=0.059499 binary-single idm=336902(mm=28.8091) id1=126902(m1=0.970086):id2=149405(m2=28.8091) (r=0.0431751) typem=14 type1=1 type2=14 
+t=0.0624799 binary-binary idm=251254(mm=40.5) id1=75002(m1=0.0977962):id2=251253(m2=40.5) (r=0.0382486) typem=14 type1=0 type2=14 
+t=0.0689021 binary-binary idm=255651(mm=37.0451) id1=45651(m1=0.107388):id2=61874(m2=37.0451) (r=0.00851934) typem=14 type1=0 type2=14 
+t=0.0767656 binary-binary idm=266519(mm=33.5774) id1=56519(m1=0.166036):id2=78203(m2=33.5774) (r=0.0358106) typem=14 type1=0 type2=14 
+t=0.0784316 binary-binary idm=280494(mm=0.509403) id1=70494(m1=0.421469):id2=202912(m2=0.0879343) (r=0.0871704) typem=0 type1=0 type2=0 
+t=0.0807692 binary-binary idm=248128(mm=29.673) id1=123604(m1=0.154243):id2=248127(m2=29.673) (r=0.0219447) typem=14 type1=0 type2=14 
